@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\D4n13L\VS_2015\deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>10/07/2020 11:45:57</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>10/07/2020 11:45:57</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>08/11/2020 09:03:14</publishTime>
+    </File>
+    <File Include="bin/Comun.dll">
+      <publishTime>10/07/2020 11:41:40</publishTime>
+    </File>
+    <File Include="bin/Comun.pdb">
+      <publishTime>10/14/2019 17:13:58</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>08/11/2020 09:03:19</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>08/11/2020 09:03:39</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>08/11/2020 09:03:40</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>08/11/2020 09:03:43</publishTime>
+    </File>
+    <File Include="bin/Facturacion.BLL.dll">
+      <publishTime>10/07/2020 11:41:52</publishTime>
+    </File>
+    <File Include="bin/Facturacion.BLL.pdb">
+      <publishTime>10/14/2019 17:14:04</publishTime>
+    </File>
+    <File Include="bin/Facturacion.BLL.XmlSerializers.dll">
+      <publishTime>10/07/2020 11:41:58</publishTime>
+    </File>
+    <File Include="bin/Facturacion.DAL.dll">
+      <publishTime>10/07/2020 11:41:45</publishTime>
+    </File>
+    <File Include="bin/Facturacion.DAL.pdb">
+      <publishTime>10/14/2019 17:14:01</publishTime>
+    </File>
+    <File Include="bin/Facturacion.ENT.dll">
+      <publishTime>10/07/2020 11:41:34</publishTime>
+    </File>
+    <File Include="bin/Facturacion.ENT.pdb">
+      <publishTime>10/14/2019 17:13:56</publishTime>
+    </File>
+    <File Include="bin/Facturacion.InterfaceRestViva.dll">
+      <publishTime>10/07/2020 11:45:30</publishTime>
+    </File>
+    <File Include="bin/Facturacion.InterfaceRestViva.pdb">
+      <publishTime>10/14/2019 17:14:02</publishTime>
+    </File>
+    <File Include="bin/Facturacion.RESTServices.dll">
+      <publishTime>10/07/2020 11:45:36</publishTime>
+    </File>
+    <File Include="bin/Facturacion.RESTServices.pdb">
+      <publishTime>10/14/2019 17:24:30</publishTime>
+    </File>
+    <File Include="bin/FastMember.Signed.dll">
+      <publishTime>08/11/2020 09:03:28</publishTime>
+    </File>
+    <File Include="bin/Ionic.Zip.dll">
+      <publishTime>08/11/2020 09:02:58</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>08/11/2020 09:02:19</publishTime>
+    </File>
+    <File Include="bin/MetodosComunes.dll">
+      <publishTime>08/11/2020 09:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>08/11/2020 09:03:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>08/11/2020 09:03:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>08/11/2020 09:03:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>08/11/2020 09:03:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>08/11/2020 09:03:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>08/11/2020 09:03:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>08/11/2020 09:03:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/11/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>08/11/2020 09:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>08/11/2020 09:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>08/11/2020 09:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>08/11/2020 09:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>08/11/2020 09:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>02/20/2011 03:40:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>02/20/2011 03:40:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/11/2020 09:03:53</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/11/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/11/2020 09:03:39</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/11/2020 09:03:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/11/2020 09:03:43</publishTime>
+    </File>
+    <File Include="bin/zxing.dll">
+      <publishTime>08/11/2020 09:04:15</publishTime>
+    </File>
+    <File Include="bin/zxing.pdb">
+      <publishTime>04/14/2018 18:39:12</publishTime>
+    </File>
+    <File Include="ConfirmarAlta.html">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="ErrorConfirmacion.html">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="ErroresSitio/403.aspx">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="ErroresSitio/404.aspx">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="Fonts/arial.ttf">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="Fonts/arialbd.ttf">
+      <publishTime>08/11/2020 09:02:39</publishTime>
+    </File>
+    <File Include="Fonts/arialbi.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ariali.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ARIALN.TTF">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ARIALNB.TTF">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ARIALNBI.TTF">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ARIALNI.TTF">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/ariblk.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/times.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/timesbd.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/timesbi.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Fonts/timesi.ttf">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/27/2019 17:03:50</publishTime>
+    </File>
+    <File Include="Imagenes/PDF32/logo.png">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Imagenes/PDF32/remate_1.jpg">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Imagenes/PDF32/remate_2.jpg">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Imagenes/PDF33/logo.png">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/07/2020 11:45:41</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>08/11/2020 09:02:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/04/2020 15:08:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

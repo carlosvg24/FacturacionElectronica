@@ -1,0 +1,22 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ConfigSectionsProcess\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ConfigSectionsProcess\obj\Debug\ConfigSectionsProcess.pdb

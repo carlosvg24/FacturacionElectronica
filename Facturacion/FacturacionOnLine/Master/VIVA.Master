@@ -1,0 +1,807 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="VIVA.master.cs" Inherits="FacturacionOnLine.Master.VIVA" %>
+
+<!DOCTYPE html>
+
+<html lang="es-MX" xml:lang="es-MX">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="description" content="VIVA Aerobus-Facturación Electrónica" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Last-Modified" content="0" />
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+
+    <title>facturación.vivaaerobus.com</title>   
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic'
+            rel='stylesheet' type='text/css' />
+        <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous"/>
+
+        <link href="<%= Page.ResolveUrl("~/Contents/css/cerulean.css")%>" rel="stylesheet" />
+        <link href="<%= Page.ResolveUrl("~/Contents/css/estilos.css")%>" rel="stylesheet" />
+        <link href="<%= Page.ResolveUrl("~/Contents/css/bootstrap-datepicker.css")%>" rel="stylesheet" />
+        <link href="<%= Page.ResolveUrl("~/Contents/css/bootstrap-select.css")%>" rel="stylesheet" />
+        <link href="<%= Page.ResolveUrl("~/Contents/bootstrap/css/bootstrap.css")%>" rel="stylesheet" />
+    
+        <style>
+            /* The switch - the box around the slider */
+            .switch {
+              position: relative;
+              display: inline-block;
+              width: 40px;
+              height: 24px;
+              float:right;
+              margin-right:10px;
+            }
+
+            /* Hide default HTML checkbox */
+            .switch input {display:none;}
+
+            /* The slider */
+            .slider {
+              position: absolute;
+              cursor: pointer;
+              top: 0;
+              left: 0;
+              right: 0;
+              bottom: 0;
+              background-color: #ccc;
+              -webkit-transition: .4s;
+              transition: .4s;
+            }
+
+            .slider:before {
+              position: absolute;
+              content: "";
+              height: 16px;
+              width: 16px;
+              left: 4px;
+              bottom: 4px;
+              background-color: white;
+              -webkit-transition: .4s;
+              transition: .4s;
+            }
+
+            input.default:checked + .slider {
+              background-color: #444;
+            }
+            input.primary:checked + .slider {
+              background-color: #2196F3;
+            }
+            input.success:checked + .slider {
+              background-color: #42A841;
+            }
+            input.info:checked + .slider {
+              background-color: #3de0f5;
+            }
+            input.warning:checked + .slider {
+              background-color: #FFC107;
+            }
+            input.danger:checked + .slider {
+              background-color: #f44336;
+            }
+
+            input:focus + .slider {
+              box-shadow: 0 0 1px #2196F3;
+            }
+
+            input:checked + .slider:before {
+              -webkit-transform: translateX(16px);
+              -ms-transform: translateX(16px);
+              transform: translateX(16px);
+            }
+
+            /* Rounded sliders */
+            .slider.round {
+              border-radius: 34px;
+            }
+
+            .slider.round:before {
+              border-radius: 50%;
+            }
+
+            /* C U S T O M:   F O N T   S I Z E  C O N T R O L S  */
+            .btn{
+                line-height: 0;
+            }
+
+            .form-control{
+                line-height: 1.3;
+            }
+
+            .col-form-label, .form-control, .btn, td, th{
+                font-size:small !important;
+                height: calc(2.25rem + 7px);
+            }
+
+            .btn-success{
+                background: #42A841;
+            }
+
+            .btn-danger{
+                color:#de2519;
+                background:#FFF;
+                border-color:#de2519;
+            }
+
+            
+
+            .input-group-text{
+                font-weight:bold;
+                line-height:0;
+            }
+
+        </style>
+
+        <style>
+            /*--------------------------------------------
+                          TIPOS DE DIALOGOS
+             -------------------------------------------*/
+            .dialogo_info #img_dialogo
+            {
+                width:60px;
+                height:60px;
+                background:url("../../Contents/images/img_dialogo_informacion.png") no-repeat; 
+            }
+
+            .dialogo_preg #img_dialogo
+            {
+                width:60px;
+                height:60px;
+                background:url("../../Contents/images/img_dialogo_pregunta.png") no-repeat;  
+            }
+
+            .dialogo_alert #img_dialogo
+            {
+                width:60px;
+                height:60px;
+                background:url("../../Contents/images/img_dialogo_alerta.png") no-repeat;  
+            }
+
+            .dialogo_error #img_dialogo
+            {
+                width:60px;
+                height:60px;
+                background:url("../../Contents/images/img_dialogo_error.png") no-repeat;  
+            }
+
+            /*--------------------------------------------
+                       CENTRAR VENTANAS MODAL
+             -------------------------------------------*/
+            .modal {
+              text-align: center;
+              padding: 0!important;
+            }
+
+            .modal:before {
+              content: '';
+              display: inline-block;
+              height: 100%;
+              vertical-align: middle;
+              margin-right: -4px;
+            }
+
+            .modal-dialog {
+              display: inline-block;
+              text-align: left;
+              vertical-align: middle;
+            }
+
+            .oculto 
+            {
+                display:none !important;
+            }
+
+            .visible
+            {
+                display:block;
+            }
+
+            /*--------------------------------------------
+                       ERRORES, VALIDACIONES
+             -------------------------------------------*/
+            .error {
+              color: #DE2519;
+              margin-left: 5px;
+            }
+ 
+            label.error {
+              display: inline;
+            }
+
+            .table td a:link{ color: #55565a; }
+            .table td a:visited{ color: #DE2519; }
+            .table td a:active{ color: #DE2519; }
+            .table td a:hover{ color: #DE2519; }
+            .table td span{ color: #DE2519; font-weight:bolder; }
+
+            a.title:link {  }
+            a.title:visited {  }
+            a.title:active { color:darkgreen; }
+            a.title:hover { COLOR: #DE2519; }
+
+
+            .dropdown-menu a.title:hover, .btn-default:hover { 
+                color:#DE2519 !important;
+            }
+        
+            .validation { border: solid 2px #DE2519; }
+            .validationMsj { color: #DE2519; font-size:20px;}
+
+            .icon-bar {
+                background-color: #888;
+                float: right;
+                clear: both;
+            }
+
+             .icon-bar {
+                width: 45px;
+                height: 6px;
+                border-radius: 10px;
+                pointer-events: none;
+                margin-top:3px;
+                margin-bottom:3px;
+                color:#55565A;
+            }
+        </style>
+
+        <%-- L O A D E R --%>
+        <style>            
+        /*--------------------------------------------
+                          OVERLAY
+         -------------------------------------------*/
+        .dv_overlay
+        {
+            position: fixed;    
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            bottom: 0px;
+            background-color:#000000; 
+            filter: alpha(opacity=30); 
+            opacity: 0.3;
+            z-index: 998;
+        }
+        /*--------------------------------------------
+                       PROGRESS BAR
+         -------------------------------------------*/
+        .dv_progress
+        {
+            position: fixed;
+            width: 200px;
+            height: 70px;
+            margin: -20px 0px 0px -100px;
+            top: 50%;
+            left: 50%;
+            padding: 5px 0px 10px 0px;
+            background-color: transparent;
+            text-align: center;
+            z-index: 999;
+        }
+        </style>
+
+  
+
+        <script src="<%= Page.ResolveUrl("~/Contents/Scripts/jquery-3.2.1.min.js")%>" type="text/javascript"></script>
+        <%--<script src="<%= Page.ResolveUrl("~/Contents/Scripts/popper-1.12.9.min.js")%>" type="text/javascript"></script>--%>
+        <script src="https://unpkg.com/popper.js@1.15.0/dist/umd/popper.min.js" type="text/javascript"></script>
+        <script src="<%= Page.ResolveUrl("~/Contents/bootstrap/js/bootstrap.js")%>" type="text/javascript"></script>
+        <script src="<%= Page.ResolveUrl("~/Contents/Scripts/bootstrap-datepicker.js")%>" type="text/javascript"></script>
+        <script src="<%= Page.ResolveUrl("~/Contents/Scripts/datepickerlang/bootstrap-datepicker.es.min.js")%>" type="text/javascript"></script>
+        <script src="<%= Page.ResolveUrl("~/Contents/Scripts/bootstrap-select.js")%>" type="text/javascript"></script>
+
+        <script>
+            //MOSTRAR CAPA
+            function Mostrar_Capa(id_capa) {
+                var capa = document.getElementById(id_capa);
+            
+                if (capa.style.display !== 'block')
+                    capa.style.display = 'block';
+            }
+
+            //OCULTAR CAPA
+            function Ocultar_Capa(id_capa) {
+                var capa = document.getElementById(id_capa);
+
+                if (capa.style.display != 'none')
+                    capa.style.display = 'none';
+            }
+
+            // MOSTRAR DIÁLOGO
+            function Mostrar_Dialogo(tipo_dialogo, texto) {
+
+                var ventana_dialogo = $('#dv_dialogo');
+                var clase_anterior = ventana_dialogo.attr('class').match(/dialogo_[a-z]+/g);
+
+
+                // elimina la clase anterior
+                if (clase_anterior != null) ventana_dialogo.removeClass(clase_anterior.join());
+
+                // segun el tipo de dialogo se aplica una de las clases predefinidas
+                // en css StylePrincipal
+                switch (tipo_dialogo) {
+                    case 'informacion':
+                        ventana_dialogo.addClass('dialogo_info');
+                        $('[id*=btnAceptarDialogo]').addClass('oculto');
+                        $('#btnCancelarDialogo').addClass('btn-success');
+                        $('#btnCancelarDialogo').attr('value', 'Aceptar');
+                        break;
+                    case 'pregunta':
+                        ventana_dialogo.addClass('dialogo_preg');
+                        $('[id*=btnAceptarDialogo]').removeClass('oculto');
+                        $('#btnCancelarDialogo').removeClass('btn-success');
+                        $('#btnCancelarDialogo').addClass('btn-default');
+                        $('#btnCancelarDialogo').attr('value', 'Cancelar');
+                        break;
+                    case 'alerta':
+                        ventana_dialogo.addClass('dialogo_alert');
+                        $('[id*=btnAceptarDialogo]').addClass('oculto');
+                        $('#btnCancelarDialogo').addClass('btn-success');
+                        $('#btnCancelarDialogo').attr('value', 'Aceptar');
+                        break;
+                    case 'error':
+                        ventana_dialogo.addClass('dialogo_error');
+                        $('[id*=btnAceptarDialogo]').addClass('oculto');
+                        $('#btnCancelarDialogo').addClass('btn-success');
+                        $('#btnCancelarDialogo').attr('value', 'Aceptar');
+                        break;
+                }
+
+                // configura el texto del dialogo
+                $get('txt_dialogo').innerHTML = texto;
+                //console.log(ventana_dialogo);
+                ventana_dialogo.modal('show');
+            }
+
+            function Ocultar_Dialogo() {
+                var ventana_dialogo = $('#dv_dialogo');
+                ventana_dialogo.modal('hide');
+            }
+
+            function MostrarLogin() {
+            
+                var isMobile = false; //initiate as false
+                // device detection
+                if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+                    || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+                    isMobile = true;
+                }
+
+                if (isMobile) {
+                    window.parent.location.href = '/AdminUsuariosPortal/LoginMobile.aspx';
+                } else
+                {
+                    
+                    var ventana_dialogo = $('#myModal');
+                    var clase_anterior = ventana_dialogo.attr('class').match(/dialogo_[a-z]+/g);
+
+
+                    // elimina la clase anterior
+                    if (clase_anterior != null) ventana_dialogo.removeClass(clase_anterior.join());
+
+                    // configura el texto del dialogo
+                    //$get('txt_dialogo').innerHTML = texto;
+                    setTimeout(function () { ventana_dialogo.modal('show'); }, 500);
+                }
+                
+            }
+
+            function OcultarLogin() {
+                var ventana_dialogo = $('#myModal');
+                ventana_dialogo.modal('hide');
+            }
+
+        
+            $(function () {
+                // Setup drop down menu
+                $('.dropdown-toggle').dropdown();
+
+                // Fix input element click problem
+                $('.dropdown input, .dropdown label').click(function (e) {
+                    e.stopPropagation();
+                });
+
+                //setNavigation();
+            });
+
+
+            function ValidateInput(source, args) {
+
+                var controlName = source.controltovalidate;
+                var control = $('#' + controlName);
+                
+                if (control != null && (control.is('input:text') || control.is('input:password'))) {
+                    if (control.val() == "") {
+                        control.addClass("validation");
+                        args.IsValid = false;
+                    }
+                    else {
+                        control.removeClass("validation");
+                        args.IsValid = true;
+                    }
+                }
+                else if (control != null && control[0].type === "select-one") {
+                    if (control.val() == "") {
+                        control.addClass("validation");
+                        args.IsValid = false;
+                    }
+                    else {
+                        control.removeClass("validation");
+                        args.IsValid = true;
+                    }
+                }
+                
+                if (args.IsValid) {
+                    $("#msjError").text("");
+                }
+                else {
+                    $("#msjError").text("Valor requerido");
+                    $('[id *= txtLoginCaptcha]').val("");
+                    renderLoginRecaptcha();
+                }
+            }
+
+
+            function setNavigation() {
+                var path = window.location.pathname;
+                path = path.replace(/\/$/, "");
+                path = decodeURIComponent(path);
+                path = path.substring(1, path.length);
+                alert(path);
+                $(".dropdown a").each(function () {
+                    var href = $(this).attr('href');
+                    href = href.substring(0, href.length);
+                    if (path === href) {
+                        $(this).closest('li').parent().closest('li').addClass('dropdown open');
+                    }
+                });
+            }
+
+            function viewPassword(control) {
+                        var x;
+                        if(control == "1")
+                            x = document.getElementById("txtContrasenia");
+                    
+                        $("i", "#viewPassword"+control).removeClass();
+
+                        //console.log($("i", "#viewPassword" + control));
+                        $(this).removeClass();
+
+                        if (x.type === "password") {
+                            x.type = "text";
+                            $("i", "#viewPassword" + control).addClass("input-group-text fas fa-eye-slash");
+                        } else {
+                            x.type = "password";
+                            $("i", "#viewPassword" + control).addClass("input-group-text fas fa-eye");
+                        }
+                    }
+
+            //     C A P T C H A 
+            var reLoginCaptchaCallback = function (response) {
+                if (response !== '') {
+                    $("[id*=txtLoginCaptcha]").val(response);
+                    $("[id*=rfvLoginCaptcha]").hide();
+                }
+            };
+
+            var renderLoginRecaptcha = function () {
+                grecaptcha.render('LoginReCaptchContainer', {
+                    'sitekey': '<%=ReCaptcha_Key %>',  
+                    'callback': reLoginCaptchaCallback,
+                    theme: 'light', //light or dark    
+                    //type: 'image',// image or audio    
+                    size: 'normal'//normal or compact    
+                });  
+            };  
+
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })
+                (window, document, 'script', 'dataLayer', 'GTM-P457KB');
+        </script>
+
+    <style>
+        
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P457KB" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <script src="https://www.google.com/recaptcha/api.js?onload=renderLoginRecaptcha&render=explicit" async defer></script>
+    
+    <form id="formMaster" runat="server" class="form-horizontal">
+        <asp:ScriptManager ID="ScriptManager1"  AsyncPostBackTimeOut="128000" runat="server">
+            
+        </asp:ScriptManager>
+        
+        <div class="container principal" style="padding-left: 0px; padding-top: 0px; padding-right: 0px;">
+            <nav class="navbar navbar-inverse navbar-fixed-top" id="navbar">
+                        <div class="navbar-header">
+                        <%--<a class="navbar-brand" href="#">Brand</a>    position: relative; --%>
+                            <div class="logovb" onclick="location.href='https://www.vivaaerobus.com/mx'"></div>
+                            <div class="center">
+                                <span class="title page_title"><%=Page.Title %></span>
+                            </div>
+                            
+                            <asp:LinkButton runat="server" id="ulLogin" visible="true"
+                                class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" >
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </asp:LinkButton>
+
+                            <asp:LinkButton runat="server" id="ulUserProfile" visible="false"
+                                class="navbar-toggle" style="border-color: transparent !important; padding:0px !important; margin:0px !important;"
+                                data-toggle="collapse" data-target=".navbar-collapse">
+                                <img src="../Contents/Images/Avatar-Icon.jpg" class="md-avatar rounded-circle size-4" alt="avatar image" height="50" width="50">
+                            </asp:LinkButton>
+                        </div>
+                    
+                        <div class="navbar-collapse collapse opcmenu">
+                            <ul class="nav navbar-nav">
+                                <li><!-- class="active" -->
+                                    <%--<a href="../AdminUsuariosPortal/NuevoUSuario.aspx" class="title whitespan">                            
+                                        <span style="font-size:medium;">Registrarse</span>
+                                    </a>--%>
+                                    <script>
+                                        function Registrarse() {
+                                            window.location.href = "../AdminUsuariosPortal/NuevoUSuario.aspx";
+                                        }
+                                    </script>
+                                    <asp:LinkButton runat="server" ID="lbRegistrarse" 
+                                        class="btn btn-default title personal" OnClientClick="Registrarse(); return false;">
+                                        <span style="font-size:medium; padding-left:15px;">Registrarse</span>
+                                    </asp:LinkButton>
+                                </li>
+                                <li>
+                                    <style>
+                                        .personal{
+                                            display: contents !important;
+                                        }
+                                        @media (max-width:768px){
+                                            .personal {
+                                                color: #fff !important;
+                                            }
+                                            .whitespan{
+                                                color: #fff !important;
+                                            }
+                                        }
+                                        
+                                    </style>
+                                    <asp:LinkButton runat="server" ID="lbIniSes" 
+                                        class="btn btn-default title personal" OnClientClick="MostrarLogin(); return false;">
+                                        <span style="font-size:medium; padding-left:15px;">Iniciar sesión</span>
+                                    </asp:LinkButton>
+                                </li>
+                                <li>
+                                    <script>
+                                        $(document).ready(function () {
+                                            var pagina = document.location.href.match(/[^\/]+$/) == null ? "default.aspx" : document.location.href.match(/[^\/]+$/)[0].toLowerCase();;
+                                            //console.log(pagina);
+                                            if (pagina == 'default.aspx') {
+                                                $('.link-reglas').css('display', 'block');
+                                                $('.link-default').css('display', 'none');
+                                            } else {
+                                                $('.link-reglas').css('display', 'none');
+                                                $('.link-default').css('display', 'block');
+                                            }                                    
+                                        });
+                                    </script>
+                            
+                                    <a href="../Reglas.aspx" class="title whitespan link-reglas">
+                                        <span style="font-size:medium;">Reglas Facturación</span>
+                                    </a>
+                                    <a href="../Default.aspx" class="title whitespan link-default">
+                                        <span style="font-size:medium;">Facturación</span>
+                                    </a>
+                                </li>
+                                <li style="padding-left: 15px;">
+                                    <asp:LinkButton runat="server" ID="btnGuiaFacturacion2" 
+                                        CssClass="btn btn-default title personal" OnClick="btnGuiaFacturacion_Click" >
+                                        <img src="<%= Page.ResolveUrl("~/Contents/Images/guia_facturacion.jpg")%>" width="17" height="16" border="0" alt="Guía de facturación" />
+                                        <span style="font-size:medium; padding-left:10px;">Guía Facturación</span>
+                                    </asp:LinkButton>
+                                </li>
+                                <li style="padding-left: 15px;">
+                                    <asp:LinkButton runat="server" ID="btnCerrarSesion" 
+                                        CssClass="btn btn-default title personal" OnClick="btnCerrarSesion_Click">
+                                        <i class="glyphicon glyphicon-off"></i>
+                                        <span style="font-size:medium; padding-left:10px;">Cerrar Sesión</span>
+                                    </asp:LinkButton>
+                                </li>
+                            </ul>
+                        </div>
+            </nav>
+
+            <div id="DivMain" class="siteWrapper">
+                <!-- <div class="row"></div> -->
+                    
+                    <%--<nav class="navbar navbar-inverse navbar-fixed-top" id="navbar">
+                        <div class="navbar-header row">--%>
+                            
+                            <%-- L O G O --%>
+                            <%--<div class="navbar-brand ">
+                                
+                                    <div class="col-xs-4">--%>
+                                        <%-- <%= Page.ResolveUrl("~/Contents/Images/vivaaerobus-logo.png")%> --%>
+                                        <%--<img src="https://content.vivaaerobus.com/Upload-VB/vb-logo.png" alt="Logo" border="0"/>
+                                    </div>
+                                    <div class="col-xs-4" style="display: inline-block !important; vertical-align: middle !important; float: none !important;">
+                                        <span class="title page_title"><%=Page.Title %></span>
+                                    </div>
+                                    <div class="col-xs-4">
+
+                                    </div>                                    
+                                
+                                
+                                
+                            </div>--%>
+                            <%--<div class="col-md-5 col-sm-9 col-xs-9" style="text-align: center; border-bottom: none !important; padding-left: 0px !important; margin-left:0px !important;">
+                                <span class="title page_title"><%=Page.Title %></span>
+                            </div>--%>
+                            <%--<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                            </button>--%>
+                        <%--</div>
+                    </nav>--%>
+                
+                
+
+                
+                <div>                 
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                
+                <!-- Footer -->
+                <footer class="page-footer font-small special-color-dark pt-4">
+                    <div class="footerPage" style="background-color: whitesmoke; padding: 15px;">
+                        <a style="border-right: solid 1px #30b131;" href="https://www.vivaaerobus.com/mx" title="VivaAerobus, La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, 
+                                                                        ofertas, promociones y descuentos."
+                            target="_blank" data-toggle="tooltip">VivaAerobus
+                        </a>
+                        <a style="border-right: solid 1px #30b131;" href="https://www.vivaaerobus.com/mx/promociones/promociones-de-vuelos" title="VivaAerobus, La Aerol&#237;nea de bajo costo de 
+                                                M&#233;xico. Los mejores precios, ofertas, promociones y descuentos."
+                            target="_blank" data-toggle="tooltip">La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, ofertas, promociones y descuentos.
+                        </a>
+                        <a href="https://www.vivaaerobus.com/upload/mx/legales/Vivaaerobus-AvisoPrivacidadMayo2013.pdf" title="Aviso de Privacidad."
+                            id="footerLinksultimo" target="_blank" data-toggle="tooltip">Aviso Privacidad
+                        </a>
+                    </div>
+                </footer>
+                
+                <!-- M O D A L -->
+                <div id="myModal" class="modal fade" data-backdrop="static" role="dialog">
+                    <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <asp:UpdatePanel runat="server" ID="upLoginMaster">
+                                <ContentTemplate>
+                                    <!-- Modal header-->
+                                    <div class="modal-header" style="border: none;">
+                                        <div id="img_dialogo"><img src="<%= Page.ResolveUrl("~/Contents/Images/logo.png")%>" /></div>
+                                    </div>         
+                    
+                                    <!-- Modal body-->
+                                    <div class="modal-body text-center">
+                                        <div class="row">
+                                            <div class="col-md-12" style="margin-top: 15px;">
+                                                <asp:ValidationSummary ID="ValidationSummary1" runat="server" 
+                                                    CssClass="ValidationErrors" ForeColor="Red" ShowMessageBox="False" 
+                                                    ValidationGroup="Login" DisplayMode="BulletList" BackColor="#FFE3E3" Font-Bold="False" 
+                                                    HeaderText="Por favor revise la siguiente información para poder continuar..." />
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xs-12 text-center">
+                                                <span id="msjError" runat="server" class="validationMsj"></span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xs-12">
+                                                <div class="form-horizontal">
+                                                <asp:HiddenField runat="server" ID="hfNada" />
+                                                    <%--  E - M A I L --%>
+                                                    <div class="form-group">
+                                                        <label for="txtUsuario" class="col-xs-3 col-form-label" style="padding-right:0px !important;">Usuario</label>
+                                                        <div class="col-xs-9" style="padding-left:0px !important;">
+                                                            <asp:TextBox ID="txtUsuario" runat="server" CssClass="form-control" placeholder="e-mail" 
+                                                                    onkeydown="return (event.keyCode!=13);" ClientIDMode="Static" />
+                                                            <asp:CustomValidator ID="cvtxtEmailAlta" runat="server" ErrorMessage="" Display="None" ValidationGroup="Login"
+                                                                                    ClientValidationFunction="ValidateInput" ControlToValidate="txtUsuario" ValidateEmptyText="true">
+                                                            </asp:CustomValidator>                                                                       
+                                                        </div>
+                                                    </div>
+
+                                                    <%-- C O N T R A S E Ñ A --%>
+                                                    <div class="form-group row">
+                                                        <label for="txtContrasenia" class="col-xs-3 col-form-label" style="padding-right:0px !important;">Contraseña</label>
+                                                        <div class="col-xs-9" style="padding-left:0px !important;">
+                                                            <div class="input-group mb-3">
+                                                                <asp:TextBox ID="txtContrasenia" runat="server" CssClass="form-control" placeholder="contraseña" TextMode="Password" 
+                                                                    onkeydown="return (event.keyCode!=13);" ClientIDMode="Static" />
+                                                                <div class="input-group-append" id="viewPassword1" style="padding:0px !important;">
+                                                                        <i class="input-group-text fas fa-eye" aria-hidden="true" onclick="viewPassword('1');"></i>
+                                                                </div>
+                                                                <asp:CustomValidator ID="cvtxtContrasenia" runat="server" ErrorMessage="" Display="None" ValidationGroup="Login"
+                                                                                    ClientValidationFunction="ValidateInput" ControlToValidate="txtContrasenia" ValidateEmptyText="true">                                          
+                                                                </asp:CustomValidator> 
+                                                            </div>                                              
+                                                        </div>
+                                                    </div>
+
+                                                    <%-- R E C U E R D A M E --%>
+                                                    <div class="row" style="display:none;">
+                                                        <div class="col-xs-12">
+                                                            <label class="switch pull-left">
+                                                                <input type="checkbox" class="success"/>
+                                                                <span class="slider round"></span>
+                                                            </label>
+                                                            <label class="title">Recordarme</label>                                                            
+                                                        </div>
+                                                    </div>
+
+                                                    <%-- C A P T C H A --%>
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
+                                                            <asp:TextBox ID="txtLoginCaptcha" runat="server"  ClientIDMode="Static" Style="display: none"/> 
+                                                            
+                                                            <asp:RequiredFieldValidator ID="rfvLoginCaptcha" ErrorMessage="La validación del Captcha es requerida." ControlToValidate="txtLoginCaptcha"
+                                                                runat="server" ForeColor="Red" Display="Dynamic" ValidationGroup="Login" ClientIDMode="Static" CssClass="help-block">*</asp:RequiredFieldValidator>
+                                                            <div id="LoginReCaptchContainer" class="pull-right"></div> 
+                                                        </div>
+                                                    </div>
+                                                    <div class="row"><div class="col-xs-12">&nbsp;</div></div>
+                                                    <%-- R E G I S T R A R  /  R E C O R D A R    C O N ... --%> 
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
+                                                            <a href="../AdminUsuariosPortal/NuevoUsuario.aspx" target="_parent" class="btn btn-default title pull-left">Registrarse</a>
+                                                            <a href="../AdminUsuariosPortal/RecordarContrasenia.aspx" target="_parent" class="btn btn-default title pull-right">Olvidé mi contraseña</a>
+                                                        </div>
+                                                    </div>  
+
+                                                    <%-- I N I C I A R   S E S I Ó N --%>
+                                                    <%--<div class="row">
+                                                        <div class="col-xs-12">
+                                                            <asp:Button runat="server" ID="btnIniciarSesion" Text="Iniciar Sesión" ValidationGroup="Login"
+                                                                    CssClass="btn btn-success pull-right" OnClick="btnIniciarSesion_Click" />
+                                                        </div>
+                                                    </div>--%>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Modal footer-->
+                                    <div class="modal-footer" style="border: none;">
+                                        <div class="text-center">
+                                            <asp:Button ID="btnCancelarD" runat="server" Text="Cancelar" class="btn btn-secondary" data-dismiss="modal" />
+                                            <asp:Button ID="btnIniciarSesion" runat="server" Text="Iniciar sesión" CssClass="btn btn-success"  ValidationGroup="Login" OnClick="btnIniciarSesion_Click" />
+                                        </div>
+                                    </div>
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,696 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MansLog</name>
+    </assembly>
+    <members>
+        <member name="T:MansLog.ConfigXML.LayOutSettings">
+            <summary>
+            Configuracion LayOut Log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.TipoLogError">
+            <summary>
+            Id del LayOut
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.Ancho">
+            <summary>
+            Ancho de la linea del log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.LineaPrincipal">
+            <summary>
+            Caracter que reresentara el margen principal del log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.LineaMensaje">
+            <summary>
+            Caracter que representara el margen del mensaje del log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.LineaStackTrace">
+            <summary>
+            Caracter que representa el margen del StackTrace
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LayOutSettings.LineaSeparadora">
+            <summary>
+            Caracter que representa el espacio de separacion entre logs
+            </summary>
+        </member>
+        <member name="T:MansLog.ConfigXML.LogInOutElement">
+            <summary>
+            Xml Log IN/OUT
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.NombreAplicacion">
+            <summary>
+            Aplicacion que pertenece el log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.PathLog">
+            <summary>
+            Ruta donde se creara los archivos de log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.PeriodoLog">
+            <summary>
+            Intervalo de tiempo para crear un nuevo archivo de log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.LayOut">
+            <summary>
+            Tipo de formato con el que se lmacena el log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.Caracter">
+            <summary>
+            Caracter que remplazara el caracter pipe '|' en el layout tipo tabla
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.TipoNombre">
+            <summary>
+            Formato de nombre con el que se bautiara archivos y carpetas del log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.AnchoLinea">
+            <summary>
+            Ancho de la lidea del Header
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.AnchoSplit">
+            <summary>
+            Ancho de la linea de separacion entre log y log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.LineaPrincipal">
+            <summary>
+            Caracter que formara la linea princial (encabezado)
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogInOutElement.Caja">
+            <summary>
+            Caracter que envolvera a IN y OUT en una caja de caracteres
+            </summary>
+        </member>
+        <member name="T:MansLog.ConfigXML.LogErrorSettings">
+            <summary>
+            Configuraciones de log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.NombreAplicacion">
+            <summary>
+            Aplicacion que pertenece el log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.PathLog">
+            <summary>
+            Ruta donde se creara los archivos de log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.PeriodoLog">
+            <summary>
+            Intervalo de tiempo para crear un nuevo archivo de log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.LayOut">
+            <summary>
+            Tipo de formato con el que se lmacena el log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.Caracter">
+            <summary>
+            Caracter que remplazara el caracter pipe '|' en el layout tipo tabla
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.TipoNombre">
+            <summary>
+            Formato de nombre con el que se bautiara archivos y carpetas del log
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.typeStackTrace">
+            <summary>
+            Formato  de escritura del StackTrace
+            </summary>
+        </member>
+        <member name="P:MansLog.ConfigXML.LogErrorSettings.LayOutCollection">
+            <summary>
+            Collecion de elementos ParameterWebConfigElement
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.TypeLog">
+            <summary>
+            Tipo de log de errores Codigo:Cuandose genera un error no controlado. BaseDatos:Erro no controlado en BD.   Evento:Error controlado o de logica
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.SubTypesLogError">
+            <summary>
+            Diferentes tipos de logs
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.NombreArchivo">
+            <summary>
+            Largo:Se incluira el nombre de la aplicacion en el nombre del archivo de los logs
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.TipoLayOut">
+            <summary>
+            Table: Formato diseñado para extracion de la informacion del archivo en un DataTable
+            Default: Sin formato
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.AgrupadoLogs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.TypeStackTrace">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MansLog.EL.InfoExtra">
+            <summary>
+            Clase para escribir informacion adicional en el log de errores
+            </summary>
+        </member>
+        <member name="P:MansLog.EL.InfoExtra.Info">
+            <summary>
+            Infomacion a escribir en donde la Key sera etiqueta y value el mensaje (key: value).
+            </summary>
+        </member>
+        <member name="P:MansLog.EL.InfoExtra.TituloAgrupador">
+            <summary>
+            Titulo agrupador (excepto Layout table)
+            </summary>
+        </member>
+        <member name="M:MansLog.EL.InfoExtra.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:MansLog.EL.InfoExtra.#ctor(System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            
+            </summary>
+            <param name="info">Infomacion a escribir en donde la Key sera etiqueta y value el mensaje (key: value).</param>
+        </member>
+        <member name="M:MansLog.EL.InfoExtra.#ctor(System.Collections.Generic.Dictionary{System.String,System.String},System.String)">
+            <summary>
+            
+            </summary>
+            <param name="info">Infomacion a escribir en donde la Key sera etiqueta y value el mensaje (key: value).</param>
+            <param name="tituloAgrupador">Titulo Agrupador</param>
+        </member>
+        <member name="P:MansLog.EL.Log.NameErrorCustom">
+            <summary>
+            Nombre del tipo de error solo este se utiliza cuandoes un CustomError
+            </summary>
+        </member>
+        <member name="T:MansLog.Error.LogError">
+            <summary>
+            Class by Carlos Mancilla
+            Clase para logeo de errores
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(System.String,System.String)">
+            <summary>
+            Constructor 
+            </summary>
+            <param name="nombreAplicacion">Nombre de la aplicacion</param>
+            <param name="rutaLog">Ruta en donde se crearan los archivos del log</param>        
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(System.String,System.String,MansLog.EL.NombreArchivo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="nombreAplicacion">Nombre de la aplicacion</param>
+            <param name="rutaLog">Ruta en donde se crearan los archivos del log</param>
+            <param name="tipoNombre">Longitud del nombre del archivo del log</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(System.String,System.String,MansLog.EL.NombreArchivo,MansLog.EL.TipoLayOut,MansLog.EL.AgrupadoLogs)">
+            <summary>
+            Constructor 
+            </summary>
+            <param name="nombreAplicacion">Nombre de la aplicacion</param>
+            <param name="rutaLog">Ruta en donde se crearan los archivos del log</param>
+            <param name="tipoNombre">Longitud del nombre del archivo del log</param>
+            <param name="tipoLayOut">Formato con el que se escribe el log.</param>
+            <param name="periodoLogs">Ciclo de tiempo para crear un nuevo archivo de log</param>        
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(System.String,System.String,MansLog.EL.NombreArchivo,MansLog.EL.TipoLayOut,MansLog.EL.AgrupadoLogs,System.Char)">
+            <summary>
+            Constructor 
+            </summary>
+            <param name="nombreAplicacion">Nombre de la aplicacion</param>
+            <param name="rutaLog">Ruta en donde se crearan los archivos del log</param>
+            <param name="tipoNombre">Longitud del nombre del archivo del log</param>
+            <param name="tipoLayOut">Formato con el que se escribe el log.</param>
+            <param name="periodoLogs">Ciclo de tiempo para crear un nuevo archivo de log</param>        
+            <param name="caracterSustituto">Caracter que sustituye a '|' si este viene incluido cualquier mensaje (Solo en tipo de lalayout Table) por default es '-' </param>
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(System.String)">
+            <summary>
+            Constructor 
+            </summary>
+            <param name="cadenaConfiguracion">Cadenena Configuacion para obtener un ejemplo de la cadena llamar al metodo GetExampleCadena</param>        
+        </member>
+        <member name="M:MansLog.Error.LogError.#ctor(MansLog.ConfigXML.LogMansSection,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="seccionLog">Clase</param>
+            <param name="idElemento"></param>
+        </member>
+        <member name="P:MansLog.Error.LogError.Ruta">
+            <summary>
+            Ruta en donde se crearan las carpetas y archivos del log. Nota: Si la ruta no existe se generara una exepcion.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:MansLog.Error.LogError.NombreAplicacion" -->
+        <member name="P:MansLog.Error.LogError.StackTraceCompleto">
+            <summary>
+            Si es true escribe todo el StackTrace. Si es false se aplica un filtro al StackTrace que consiste en no tomar ignorar los que no contengan informacion del archivo fuente ni el numero de linea del error.
+            </summary>
+        </member>
+        <member name="P:MansLog.Error.LogError.TipoStackTrace">
+            <summary>
+            Tipo formato como se escribira el StackTrace
+            </summary>
+        </member>
+        <member name="M:MansLog.Error.LogError.InsertarNuevoRegistro(MansLog.EL.LogType,System.String)">
+            <summary>
+            Inserta un registro en la BDcdecTexto en los logs modo JSON Tabla
+            </summary>
+            <param name="infoLog">Objeto donde se trae la informacion del log de errores</param>
+            <param name="pathFiles">Ruta de tablas en donde se introducira el registro (carpeta año)</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.GetSettingsTbl(System.String)">
+            <summary>
+            Obtiene parametros necesarioas para la insercion de un nuevo registro en la BD de texto
+            </summary>
+            <param name="pathTbls"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.EditHeaderTabla(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            Se edita el header de los archivos de la BD de texto y add elregistro al archivo
+            </summary>
+            <param name="rutaArchivo">Ruta archivo tabla</param>
+            <param name="filaNueva">texto que representa la inserccion de </param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.textoLayOutDefault(MansLog.EL.LogType)">
+            <summary>
+            Se crea el texto (Default) del log
+            </summary>
+            <param name="logInfo">Objeto que contiene informacion para formar el log</param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.construirNombreArchivo">
+            <summary>
+            Genera el nombre del archivo del log
+            </summary>
+            <param name="infoLog">Entidad que trae la informacion para armar el log</param>
+            <returns>Nombre Archivo</returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribirlog(MansLog.EL.LogType)">
+            <summary>
+            Genera y escribe en el archivo de log
+            </summary>   
+            <param name="infoLog">Entidad que trae la informacion para armar el log</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.getNombreCarpeta">
+            <summary>
+            Genera el nombre de la carpeta contenedora de los logs
+            </summary>
+            <returns>Nombre de la Carpeta</returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.GetIdRegistro(System.DateTime)">
+            <summary>
+            Se obtiene el id de error para el tipo de layout Table
+            </summary>
+            <param name="ahora">Datetime correspondiente al tiempo exacto que ocurrio el error</param>
+            <returns>Id del Registro</returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.GetLogConfiguration(System.String,MansLog.ConfigXML.LogMansSection)">
+            <summary>
+            Busca en el config en la seccion de LogMans los elementos LogError 
+            </summary>
+            <param name="idLog"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Exception,MansLog.EL.InfoExtra)">
+            <summary>
+            Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception</param>
+            <param name="infoExtra">Mensaje personalizado sobre el error</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Exception,System.String)">
+            <summary>
+            Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception</param>
+            <param name="mensaje">Mensaje personalizado sobre el error</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Exception,MansLog.EL.InfoExtra,System.String)">
+            <summary>
+            Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception</param>
+            <param name="infoExtra">Mensaje personalizado sobre el error</param>
+            <param name="tipoError">Etiqueta personalizada para poder clasificarlo mas facilmente</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Exception)">
+            <summary>
+             Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Data.SqlClient.SqlException,MansLog.EL.InfoExtra)">
+            <summary>
+            Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception de SQL</param>
+            <param name="infoExtra">Mensaje personalizado sobre el error</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Data.SqlClient.SqlException)">
+            <summary>
+            Escribe en el log
+            </summary>
+            <param name="ex">Objeto Exception de SQL</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Data.SqlClient.SqlException,System.String)">
+            <summary>
+             Escribe en el log
+            </summary>
+            <param name="ex">Objeto error</param>
+            <param name="mensaje">Mensaje personalizado sobre el error</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.String)">
+            <summary>
+            Escribe en el Log
+            </summary>
+            <param name="mensaje">Mensaje que se escribira</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.Collections.Generic.Dictionary{System.String,System.String},System.String)">
+            <summary>
+            Escribe en el Log
+            </summary>
+            <param name="infoExtra">Informacion opcional que se escribira</param>
+            <param name="titulo">Titula que agrupa info extra (solo en layout default)</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.String,System.String,System.String)">
+            <summary>
+            Escribe en el Log
+            </summary>
+            <param name="mensaje">Mensaje que se escribira</param>
+            <param name="fuente">Fuente o lugar de donde pertenece el log</param>
+            <param name="tipoEvento">Clasificacion evento</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(MansLog.EL.InfoExtra,System.String)">
+            <summary>
+            Escribe en el Log
+            </summary>
+            <param name="infoExtra">Informacion opcional que se escribira</param>
+            <param name="fuente">Fuente o lugar de donde pertenece el log</param>
+            <param name="tipoEvento">Clasificacion evento</param>       
+        </member>
+        <member name="M:MansLog.Error.LogError.escribir(System.String,System.String)">
+            <summary>
+            Escribe en el Log
+            </summary>
+            <param name="mensaje">Mensaje que se escribira</param>        
+            <param name="tipoEvento">Clasificacion evento</param>
+        </member>
+        <member name="M:MansLog.Error.LogError.ObtenerTblCarpetas">
+            <summary>
+            Obtiene todas las carpetas que estan dentro de la ruta del log
+            </summary>
+            <returns>DataTable(Tbl_Carpetas) con 2 columnas, Descripcion y Valor que contiene Nombre Carpeta y la ruta completa respectivamente</returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.ObtenerTblArchivosLog(System.String)">
+            <summary>
+            Obtiene todos los archivos del log que se encuentra dentro de una carpeta de la ruta del log especificada 
+            </summary>
+            <param name="nombreCarpeta">Nombre Carpeta</param>
+            <returns>DataTable(Tbl_ArchivosLog) con 2 columnas, Descripcion y Valor que contiene respectivamente Nombre del Archivo y Ruta completa del mismo</returns>
+        </member>
+        <member name="M:MansLog.Error.LogError.CadenaConexionToDictionary(System.String,System.Nullable{System.Boolean},System.Char)">
+            <summary>
+            Convierte una cadena de conexion en un diccionario 
+            </summary>
+            <param name="cadena">Cadena a convertir</param>
+            <param name="KeyMayusculas">True las KEY's del diccionario seran convertidas a Mayusculas. False a minusculas. Null Se deja tal y como estan</param>
+            <param name="separador">Caracter separador. Por default es ';' </param>
+            <returns>Un diccionario(string,string)</returns>
+            <example>
+            Ejemplo de cadena "user=cmancilla;passwd=12345678;port=21;host=172.16.2.41;remoteDirectory=PROGUB_Web/; localdirectory=~/Files/Temporal"
+            /// Si en el valor se necesita poner "=" se tendra que poner doble "==" y nunca despues de "=". NO ->  key===hola    Si--> key=pi==3.1416
+            </example>
+        </member>
+        <member name="M:MansLog.Error.LogError.ObtenerMeses">
+            <summary>
+            Obtiene catalogo meses del año
+            </summary>
+            <returns>DataTable(Tbl_Meses) con 2 columnas, Descripcion y Valor que contiene respectivamente Nombre del mes y un valor numerico que representa el orden del mes</returns>
+        </member>
+        <member name="T:MansLog.Error.EstructuraLogError">
+            <summary>
+            Clase que da formato al log
+            </summary>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.#ctor(System.Int32,System.Char,System.Char,System.Char,System.Char)">
+            <summary>
+            Constructor con parametros
+            </summary>
+            <param name="ancho">Ancho de la linea del log</param>
+            <param name="lineaPrincipal">Caracter que reresentara el margen principal del log</param>
+            <param name="lineaMensaje">Caracter que representara el margen del mensaje del log</param>
+            <param name="lineaStackTrace">Caracter que representa el margen del StackTrace</param>
+            <param name="lineaSeparadora">Caracter que representa el espacio de separacion entre logs</param>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.#ctor(MansLog.ConfigXML.LayOutSettings)">
+            <summary>
+            Constructor con parametros
+            </summary>
+            <param name="settings">Objeto obtnido en web.config</param>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.GetEncabezado(System.String,System.String)">
+            <summary>
+            Regresa el encabezado en cadena de texto en el layout Default
+            </summary>
+            <param name="titulo"></param>
+            <param name="subtitulo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.GetMensaje(MansLog.EL.InfoExtra)">
+            <summary>
+            
+            </summary>
+            <param name="infoExtra"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.GetFooter(System.String,System.String,MansLog.EL.LevelError)">
+            <summary>
+            
+            </summary>
+            <param name="descripcion"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.DoFormat(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="texto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.GetStackTrace(System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="ex"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.GetSplitLines(System.Int32)">
+            <summary>
+            Obtiene linea(s) de separacion
+            </summary>
+            <param name="cantidaLineas">Cantinan de espacios vacios antes del siguiente caracter</param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.AddLineaCaracteres(System.Text.StringBuilder,System.Char)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">caracter que formara la linea</param>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.AddLineaCaracteres(System.Text.StringBuilder,System.Char,System.Int32)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">caracter que formara la linea</param>
+            <param name="cantidadEspacio">Numerode espacios en blanco despues del caracter antes de su repeticion</param>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.AddLineaCaracteres(System.Text.StringBuilder,System.Char,System.String)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">>caracter que formara la linea</param>
+            <param name="titulo">Titulo centrado a insertar en la linea</param>
+        </member>
+        <member name="M:MansLog.Error.EstructuraLogError.BorrarEspaciosBlancoDeInicio(System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MansLog.Error.ReadLogs.GetLogConfiguration(System.String,MansLog.ConfigXML.LogMansSection)">
+            <summary>
+            Busca en el config en la seccion de LogMans los elementos LogError 
+            </summary>
+            <param name="idLog"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.GetEncabezado(System.Collections.Generic.Dictionary{System.String,System.String})">
+             <summary>
+            Encabezado dl log In/Out 
+             </summary>
+             <param name="txt">Diccionario en donde la key es la etiqueta y el value el texto</param>
+             <returns></returns>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.AddLineaCaracteres(System.Text.StringBuilder,System.Char)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">caracter que formara la linea</param>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.GetMensaje(MansLog.EL.InOutEntity)">
+            <summary>
+            
+            </summary>
+            <param name="infoInOut"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.AddLineaCaracteres(System.Text.StringBuilder,System.Char,System.Int32)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">caracter que formara la linea</param>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.AddLineaCaracteres(System.Text.StringBuilder,System.Char,System.Int32,System.Int32)">
+            <summary>
+            Funcion que add lineas de un caracter seleccionado
+            </summary>
+            <param name="stringBuilder">objeto donde se escribe el texto</param>
+            <param name="caracter">caracter que formara la linea</param>
+            <param name="cantidadEspacio">Numerode espacios en blanco despues del caracter antes de su repeticion</param>
+            <param name="ancho">ancho de la linea</param>
+        </member>
+        <member name="M:MansLog.InOut.EstructuraLogInOut.GetSplitLine">
+            <summary>
+            Obtiene lalinea separadora entre logs
+            </summary>
+            <param name="splitCaracter"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MansLog.InOut.LogInOut">
+            <summary>
+            Class by Carlos Mancilla
+            Clase para logeo de Entradas/salidas
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.#ctor(System.String,System.String)">
+            <summary>
+            Constructor log de IN/Out
+            </summary>
+            <param name="nombreAplicacion">Nombre de la palicacion que se logea</param>
+            <param name="rutaLog">Path donde se caran archivos de log</param>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.#ctor(System.String,System.String,MansLog.EL.AgrupadoLogs,MansLog.EL.TipoLayOut,MansLog.EL.NombreArchivo)">
+            <summary>
+            Constructo
+            </summary>
+            <param name="nombreAplicacion">Nombre de la aplicacion</param>
+            <param name="rutaLog">Ruta donde se crearan los archivos</param>
+            <param name="periodoLog">Ciclo de tiempo para crear un nuevo archivo de log</param>
+            <param name="tipoLayOut">Formato con el que se escribe el log.</param>
+            <param name="tipoNombre">Longitud del nombre del archivo del log</param>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cadenaConfiguracion">Cadenena Configuacion para obtener un ejemplo de la cadena llamar al metodo GetExampleCadena</param>
+        </member>
+        <member name="P:MansLog.InOut.LogInOut.SubTipo">
+            <summary>
+            Esta propiedad solo aparecera en el LayOut JSON
+            </summary>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.CadenaConexionToDictionary(System.String,System.Nullable{System.Boolean},System.Char)">
+            <summary>
+            
+            </summary>
+            <param name="cadena"></param>
+            <param name="KeyMayusculas"></param>
+            <param name="separador"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.escribirlog(MansLog.EL.InOutEntity)">
+            <summary>
+            Genera y escribe en el archivo de log
+            </summary>   
+            <param name="infoLog">Entidad que trae la informacion para armar el log</param>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.getNombreCarpeta">
+            <summary>
+            Genera el nombre de la carpeta contenedora de los logs
+            </summary>
+            <returns>Nombre de la Carpeta</returns>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.textoLayOutDefault(MansLog.EL.InOutEntity)">
+            <summary>
+            Genera texto en el log
+            </summary> 
+            <param name="logInfo">Diciconario que trae la informacion para armar las etiquetas del log</param>
+            <returns>Texto con la informacion del error</returns>
+        </member>
+        <member name="M:MansLog.InOut.LogInOut.EditHeaderTabla(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            Se edita el header de los archivos de la BD de texto y add elregistro al archivo
+            </summary>
+            <param name="rutaArchivo">Ruta archivo tabla</param>
+            <param name="filaNueva">texto que representa la inserccion de </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

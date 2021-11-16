@@ -1,0 +1,47 @@
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Manual Process Trigger.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Manual Process Trigger.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Manual Process Trigger.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Manual Process Trigger.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Manual Process Trigger.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\MansLog.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Proceso.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\ConfigSectionsProcess.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Proceso.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\MansLog.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Release\Facturacion.BLL.XmlSerializers.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual_Process_Trigger.Main.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Release\Manual Process Trigger.pdb

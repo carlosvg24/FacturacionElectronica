@@ -1,0 +1,306 @@
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\ApplicationInsights.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\csc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\vbc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\ApplicationInsights.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\ApplicationInsights.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\ApplicationInsights.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion33.PortalAdmin.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion33.PortalAdmin\obj\Debug\Facturacion33.PortalAdmin.pdb

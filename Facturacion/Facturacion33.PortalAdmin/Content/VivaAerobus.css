@@ -1,0 +1,318 @@
+﻿
+button[class= "btn btn-default dropdown-toggle"] {
+    width: 99%;
+}
+
+span[class="caret"] {
+    margin-left: 60% !important;
+}
+
+button {
+    width: 90px;
+}
+
+
+.btnViva {
+    background-color: #299729;
+    border-radius: 6px;
+    color: white;
+    height: 42px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #1e6f1e;
+    font-weight: bold;
+    margin: 10px;
+    width: 180px;
+}
+
+
+    .btnViva:hover {
+        background-color: #3fab37;
+        border-radius: 6px;
+        color: #efefef;
+        height: 42px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #1e6f1e;
+        font-weight: bold;
+    }
+
+.title {
+    color: #55565a;
+    font-weight: bold;
+}
+
+
+
+.header-panel-viva {
+    background-color: #34b233;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    height: 35px;
+    border-color: #1e6f1e;
+    border-width: 1px;
+    border-style: solid;
+    color: white;
+}
+
+.title-panel-viva {
+    color: white;
+    padding-top: 8px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+.txt-viva {
+    height: 42px;
+}
+
+.dropdown-viva {
+    height: 42px;
+}
+
+.label-viva {
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.principal {
+    /*margin: 10px;*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 700px;
+    height: 700px;
+    /*padding: 15px;*/
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #FFFFFF;
+    /*-webkit-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    -moz-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);*/
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.botonera {
+    background-color: #3fab37;
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.filtros {
+    padding: 10px;
+    margin-top: 10px;
+    margin: 0 auto;
+    min-height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    -moz-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    padding: 15px;
+    overflow-x: auto;
+    overflow-y: auto;
+    border-left-width: 10px;
+}
+
+
+.PanelGrid {
+    margin-top: 10px;
+    min-height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    -moz-box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    box-shadow: -1px -2px 20px 2px rgba(50,50,50,.75);
+    padding: 15px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+
+
+body {
+    /*background-image: url('Images/background-rebranded.png');
+    background-repeat: repeat;*/
+    background-color: #3fab37;
+    margin: 0px;
+    height: 100%;
+    overflow: auto;
+}
+
+
+.table-fixed thead,
+.table-fixed tfoot {
+    width: 97%;
+}
+
+.table-fixed tbody {
+    height: 230px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tfoot,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+    display: block;
+}
+
+    .table-fixed tbody td,
+    .table-fixed thead > tr > th,
+    .table-fixed tfoot > tr > td {
+        float: left;
+        border-bottom-width: 0;
+    }
+
+.cargando {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    z-index: 10000;
+    text-align: center;
+    position: absolute;
+    background-color: #FFFFFF;
+    opacity: 0.7;
+    filter: alpha(opacity=50);
+    display: none;
+}
+
+
+.marginCero {
+    margin-right: 2px;
+}
+
+
+.viva-dialog .modal-header {
+    background-color: #3fab37 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+
+/*.botonExportarExcel{
+  background-image:url('Imagenes/exportarExcel_4.jpg');
+  background-repeat:no-repeat;
+  height:32px;
+  width:32px;
+  background-position:center;
+}*/
+
+
+
+.alinearAbajo {
+    vertical-align: bottom;
+}
+
+.footerPage {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    border: none;
+}
+
+    .footerPage, .footerPage a {
+        font-family: 'Lato',sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        -webkit-text-stroke-width: .2px;
+        color: #30b131;
+        display: inline-block;
+        font-size: 12px;
+        padding-right: 5px;
+        margin-right: 5px;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+
+.thResultado {
+    text-align: center;
+    border-style: none;
+}
+
+.ocultar {
+    visibility: collapse;
+}
+
+.Mostrar {
+    visibility: visible;
+}
+
+
+/*.DegradadoLateral {
+    background: rgba(0,128,128,1);
+    background: -moz-linear-gradient(left, rgba(0,128,128,1) 0%, rgba(0,128,128,1) 4%, rgba(212,228,239,1) 26%, rgba(212,228,239,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,128,128,1)), color-stop(4%, rgba(0,128,128,1)), color-stop(26%, rgba(212,228,239,1)), color-stop(100%, rgba(212,228,239,1)));
+    background: -webkit-linear-gradient(left, rgba(0,128,128,1) 0%, rgba(0,128,128,1) 4%, rgba(212,228,239,1) 26%, rgba(212,228,239,1) 100%);
+    background: -o-linear-gradient(left, rgba(0,128,128,1) 0%, rgba(0,128,128,1) 4%, rgba(212,228,239,1) 26%, rgba(212,228,239,1) 100%);
+    background: -ms-linear-gradient(left, rgba(0,128,128,1) 0%, rgba(0,128,128,1) 4%, rgba(212,228,239,1) 26%, rgba(212,228,239,1) 100%);
+}*/
+
+
+.marca-de-agua {
+    background-image: url("/Content/Images/background-rebranded.png");
+    background-repeat: repeat;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+    .marca-de-agua img {
+        padding: 0;
+        width: 100%;
+        height: auto;
+        opacity: 0.7;
+    }
+
+
+#content {
+    padding: 25px;
+}
+
+#fade {
+    display: none;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ababab;
+    z-index: 1001;
+    -moz-opacity: 0.8;
+    opacity: .70;
+    filter: alpha(opacity=70);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+}
+
+#modal {
+    display: none;
+    position: fixed;
+    top: 30%;
+    left: 40%;
+    padding: 30px 15px 0px;
+    border: none;
+    background-color: transparent;
+    z-index: 1002;
+    text-align: center;
+    overflow: auto;
+}

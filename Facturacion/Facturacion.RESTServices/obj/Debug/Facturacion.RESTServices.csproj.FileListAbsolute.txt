@@ -1,0 +1,401 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\ApplicationInsights.config
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\csc.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\System.Collections.Immutable.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\vbc.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe.config
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll.config
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.RESTServices.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Comun.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.BLL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Ionic.Zip.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.Web.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Newtonsoft.Json.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Net.Http.Formatting.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Web.Http.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Web.Http.WebHost.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\ClosedXML.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\zxing.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\FastMember.Signed.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.BLL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.DAL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.Web.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\Newtonsoft.Json.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Net.Http.Formatting.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Web.Http.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\System.Web.Http.WebHost.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\ClosedXML.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\zxing.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\zxing.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\es\System.Net.Http.Formatting.resources.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\es\System.Web.Http.resources.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\bin\es\System.Web.Http.WebHost.resources.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\ApplicationInsights.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\csc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\vbc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Ionic.Zip.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.resources.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\ApplicationInsights.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Ionic.Zip.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\ApplicationInsights.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Ionic.Zip.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\ApplicationInsights.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.RESTServices.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Ionic.Zip.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Facturacion.InterfaceRestViva.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.Web.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Net.Http.Formatting.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\System.Web.Http.WebHost.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.RESTServices\obj\Debug\Facturacion.RESTServices.pdb

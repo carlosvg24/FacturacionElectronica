@@ -1,0 +1,173 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Comun.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\zxing.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\zxing.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Comun.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\zxing.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\zxing.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojAssemblyReference.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\obj\Debug\Facturacion.DAL.csproj.CoreCompileInputs.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\obj\Debug\Facturacion.DAL.csproj.CopyComplete
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.DAL\obj\Debug\Facturacion.DAL.pdb

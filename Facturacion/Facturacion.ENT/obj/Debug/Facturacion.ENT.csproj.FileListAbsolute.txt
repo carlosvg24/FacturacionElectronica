@@ -1,0 +1,46 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Debug\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\obj\Debug\Facturacion.ENT.csprojAssemblyReference.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\obj\Debug\Facturacion.ENT.csproj.CoreCompileInputs.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\obj\Debug\Facturacion.ENT.csproj.CopyComplete
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Facturacion.ENT\obj\Debug\Facturacion.ENT.pdb

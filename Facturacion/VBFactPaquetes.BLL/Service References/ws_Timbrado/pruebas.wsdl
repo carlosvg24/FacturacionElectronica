@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="urn:flo_api" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:flo_api" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="urn:flo_api">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="RespuestaTimbrado">
+        <xsd:all>
+          <xsd:element name="codigo" type="xsd:string" />
+          <xsd:element name="subcodde" type="xsd:string" />
+          <xsd:element name="response" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="timbrarRequest">
+    <wsdl:part name="apikey" type="xsd:string" />
+    <wsdl:part name="request" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="timbrarResponse">
+    <wsdl:part name="return" type="tns:RespuestaTimbrado" />
+  </wsdl:message>
+  <wsdl:portType name="FacturaloTimbradoWSPortType">
+    <wsdl:operation name="timbrar">
+      <wsdl:input message="tns:timbrarRequest" />
+      <wsdl:output message="tns:timbrarResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="FacturaloTimbradoWSBinding" type="tns:FacturaloTimbradoWSPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="timbrar">
+      <soap:operation soapAction="urn:FacturaloTimbradoWS#timbrarTXT" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:flo_api" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:flo_api" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="FacturaloTimbradoWS">
+    <wsdl:port name="FacturaloTimbradoWSPort" binding="tns:FacturaloTimbradoWSBinding">
+      <soap:address location="http://sistema.factura-lo.com.mx/ws/viva/pruebas.do" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

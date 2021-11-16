@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe">
+   <Modules>
+    <Module Name="facturacionticketfac.exe">
+     <Namespaces>
+      <Namespace Name="FacturacionTicketFac">
+       <Types>
+        <Type Name="BLLGendescripcionesCat" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+           <Issue Certainty="90" Level="Error">'BLLGendescripcionesCat' está marcado como ComVisible(true) pero tiene los siguientes tipos ComVisible(false) en su jerarquía de objetos: 'ENTGendescripcionesCat'</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="DALGendescripcionesCat" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+           <Issue Certainty="90" Level="Error">'DALGendescripcionesCat' está marcado como ComVisible(true) pero tiene los siguientes tipos ComVisible(false) en su jerarquía de objetos: 'ENTGendescripcionesCat'</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Actualizar()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="177">'DALGendescripcionesCat.Actualizar()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="181">'DALGendescripcionesCat.Actualizar()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Agregar()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="104">'DALGendescripcionesCat.Agregar()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="108">'DALGendescripcionesCat.Agregar()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Eliminar(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="235">'DALGendescripcionesCat.Eliminar(int)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="239">'DALGendescripcionesCat.Eliminar(int)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RecuperarGendescripcionesCatCvetabla(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="458">'DALGendescripcionesCat.RecuperarGendescripcionesCatCvetabla(string)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="462">'DALGendescripcionesCat.RecuperarGendescripcionesCatCvetabla(string)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RecuperarGendescripcionesCatPorLlavePrimaria(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="383">'DALGendescripcionesCat.RecuperarGendescripcionesCatPorLlavePrimaria(int)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="387">'DALGendescripcionesCat.RecuperarGendescripcionesCatPorLlavePrimaria(int)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RecuperarTodo()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="308">'DALGendescripcionesCat.RecuperarTodo()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\DAL" File="DALGendescripcionesCat.cs" Line="312">'DALGendescripcionesCat.RecuperarTodo()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmGenerarFacturas" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CargarCatalogos()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.cs" Line="344">El método 'frmGenerarFacturas.CargarCatalogos()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Versión ".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#chkExtranjero_CheckedChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.cs" Line="49">El método 'frmGenerarFacturas.chkExtranjero_CheckedChanged(object, EventArgs)' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "RFC, TAX ID".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="376">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Email".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="344">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Extranjero".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="180">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "FACTURAR".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="102">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Facturación".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="334">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Gastos en General".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="357">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "PNR".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="300">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Por Definir".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="169">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "RFC".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="159">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Uso CFDI".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="402">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'Control.Text.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Version 1.0.3".</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.DataGridViewColumn.set_HeaderText(System.String)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="251">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Factura".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="259">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Fecha Factura".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="244">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Fecha Pago".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="229">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "IdPagosCab".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="283">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Lugar Expedición".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="275">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Moneda".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="236">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "PaymentID".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.Designer.cs" Line="267">El método 'frmGenerarFacturas.InitializeComponent()' pasa una cadena literal como parámetro 'value' de una llamada a 'DataGridViewColumn.HeaderText.set(string)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Total".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ListaPagos" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="CollectionPropertiesShouldBeReadOnly" Category="Microsoft.Usage" CheckId="CA2227" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="Breaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.cs" Line="22">Cambie 'frmGenerarFacturas.ListaPagos' para que sea de solo lectura quitando el establecedor de propiedades.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Show(System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.MessageBox.Show(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.cs" Line="239">El método 'frmGenerarFacturas.Show(string, string)' pasa una cadena literal como parámetro 'caption' de una llamada a 'MessageBox.Show(string, string, MessageBoxButtons, MessageBoxIcon)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Facturación Viva Aerobus".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ShowFalla(System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.MessageBox.Show(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)" TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-11-16 15:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac" File="frmGenerarFacturas.cs" Line="229">El método 'frmGenerarFacturas.ShowFalla(string, string)' pasa una cadena literal como parámetro 'caption' de una llamada a 'MessageBox.Show(string, string, MessageBoxButtons, MessageBoxIcon)'. En su lugar, recupere las siguientes cadenas de una tabla de recursos: "Facturación Viva Aerobus".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="CollectionPropertiesShouldBeReadOnly" Category="Microsoft.Usage" CheckId="CA2227">
+   <Name>Las propiedades de la colección deben ser de solo lectura</Name>
+   <Description>Las propiedades que devuelven colecciones deben ser de solo lectura para que los usuarios no reemplacen totalmente la memoria auxiliar. Los usuarios podrán modificar todavía el contenido de la colección llamando a métodos relevantes en la colección. Tenga en cuenta que la clase XmlSerializer tiene compatibilidad especial para deserializar las colecciones de solo lectura. Consulte la información general de XmlSerializer para obtener más información.</Description>
+   <Resolution Name="Default">Cambie {0} para que sea de solo lectura quitando el establecedor de propiedades.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182327.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405">
+   <Name>Los tipos base de tipos visibles para COM deben ser visibles para COM</Name>
+   <Description>Los tipos visibles para COM deben tener una jerarquía de objetos que sea visible para COM de forma uniforme.</Description>
+   <Resolution Name="Default">{0} está marcado como ComVisible(true) pero tiene los siguientes tipos ComVisible(false) en su jerarquía de objetos: {1}</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182202.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="interoperabilityrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="No pasar cadenas literal como parámetros localizados" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>No pasar cadenas literal como parámetros localizados</Name>
+   <Description>Las cadenas de tipo literal incrustadas en el código fuente son difíciles de localizar. Evite pasar cadenas literal como argumentos en circunstancias donde, por lo general, se espera una cadena localizada.</Description>
+   <Resolution Name="KnownValue">El método {0} pasa una cadena literal como parámetro '{1}' de una llamada a {2}. En su lugar, recupere las siguientes cadenas de una tabla de recursos: {3}.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>Reiniciar para mantener los detalles de la pila</Name>
+   <Description>Utilice la instrucción de reinicio IL para mantener los detalles de la pila original cuando vaya a volver a provocar la excepción detectada.</Description>
+   <Resolution Name="Default">{0} vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182363.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

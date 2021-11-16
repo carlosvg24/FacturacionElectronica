@@ -1,0 +1,134 @@
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.CodeAnalysisLog.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.lastcodeanalysissucceeded
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.frmGenerarFacturas.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.Properties.Resources.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csproj.GenerateResource.Cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.TrustInfo.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.CodeAnalysisLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.lastcodeanalysissucceeded
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.frmGenerarFacturas.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.Properties.Resources.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csproj.GenerateResource.Cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.TrustInfo.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.application
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.CodeAnalysisLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.lastcodeanalysissucceeded
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.frmGenerarFacturas.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.Properties.Resources.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csproj.GenerateResource.Cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.TrustInfo.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.application
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.CodeAnalysisLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FacturacionTicketFac.exe.lastcodeanalysissucceeded
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\Facturacion.InterfaceRestViva.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.frmGenerarFacturas.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.Properties.Resources.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.csproj.GenerateResource.Cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.TrustInfo.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionTicketFac\obj\Debug\FacturacionTicketFac.pdb

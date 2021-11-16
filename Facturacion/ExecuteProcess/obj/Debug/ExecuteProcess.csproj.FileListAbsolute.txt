@@ -1,0 +1,292 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Proceso.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\MansLog.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Comun.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\zxing.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\MansLog.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\zxing.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\zxing.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\obj\Debug\Proceso.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\ExecuteProcess\obj\Debug\Proceso.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Proceso.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\MansLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\bin\Debug\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\obj\Debug\ExecuteProcess.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\ExecuteProcess\obj\Debug\Proceso.pdb

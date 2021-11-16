@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OLD.master.cs" Inherits="FacturacionOnLine.Master.OLD" %>
+
+<!DOCTYPE html>
+
+<html lang="es-MX" xml:lang="es-MX">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="description" content="VIVA Aerobus-Facturación Electrónica" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Last-Modified" content="0" />
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+
+    <title>facturación.vivaaerobus.com</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic'
+        rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css' />
+    <link href="<%= Page.ResolveUrl("~/Contents/css/old_estilos.css")%>" rel="stylesheet" />
+    <link href="<%= Page.ResolveUrl("~/Contents/css/old_cerulean.css")%>" rel="stylesheet" />
+    <link href="<%= Page.ResolveUrl("~/Contents/css/bootstrap-datepicker.css")%>" rel="stylesheet" />
+    <link href="<%= Page.ResolveUrl("~/Contents/css/bootstrap-select.css")%>" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous"/>
+
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/jquery-1.12.4.min.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/jquery-3.0.0.min.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/jquery.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/jquery-ui.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/bootstrap.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/bootstrap-datepicker.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/datepickerlang/bootstrap-datepicker.es.min.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/bootstrap-select.js")%>"></script>
+    <script src="<%= Page.ResolveUrl("~/Contents/Scripts/sweetalert.min.js")%>"></script>
+    
+     
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })
+            (window, document, 'script', 'dataLayer', 'GTM-P457KB');
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P457KB" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <div id="DivMain" class="siteWrapper">
+        <table style="border: none; border-spacing: 0px; border-collapse: collapse; margin-bottom: 5px;">
+            <tr>
+                <td style="width: 480px; height: 100px">
+                    <a href="../Default.aspx">
+                        <span class="logo">
+                            <img src="<%= Page.ResolveUrl("~/Contents/Images/vivaaerobus-logo.png")%>" alt="Logo" width="480" height="100" border="0" />
+                            
+                        </span>
+                    </a>
+                </td>
+                
+                <td style="width: 480px; height: 100px; vertical-align: top; text-align: right;">
+                    <div class="absoluteTop"> 
+                        <div class="headerBookmarks">
+                            <a class="socialBookmark markFacebook" target="_blank" href="https://www.facebook.com/VivaAerobus"></a>
+                            <a class="socialBookmark markTwitter" target="_blank" href="https://twitter.com/vivaaerobus"></a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="height: 25px; text-align: right;" colspan="2">
+                    <a href="../Default.aspx" class="menu_nav">Factura Electrónica</a>
+                    <a href="../Reglas.aspx" class="menu_nav" style="margin-right: 15px;">Reglas de Facturación</a>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    
+                </td>
+            </tr>
+        </table>
+        <div style="background-color:#28A745; height:50px; padding-top:15px;" class="text-center">
+            <i class="fa fa-plane-arrival" style="color:white; font-size:x-large;"></i>
+            <a href="../AdminUsuariosPortal/Registrarse.aspx" class="menu_nav" style="color:white; font-size:large;">Registrarse en la nueva experiencia de facturación</a>
+            <i class="fa fa-plane" style="color:white; font-size:x-large;"></i>
+        </div>
+        <hr class="Separador" />
+        <table style="border: none; border-spacing: 0; border-collapse: collapse;">
+            <tr>
+                <td style="width: 724px; height: 60px; vertical-align: bottom;" class="titulo_pagina">
+                    <%=Page.Title %>
+                </td>
+                <td style="width: 236px; height: 60px; vertical-align: bottom; text-align: right;">
+                    <table style="margin-bottom: 10px; margin-right: 15px; border: none; border-collapse: collapse; border-spacing: 0px;">
+                        <tr>
+                            <td style="width: 90px;" class="descargas_guia">Descargas -</td>
+                            <td style="width: 27px; text-align: right;">
+                                <a href="Contents/GuiasPDF/Guía%20para%20proceso%20de%20facturación.pdf" target="_blank" title="Guía para proceso de Facturación." data-toggle="tooltip" style="margin: 3px;">
+                                    <img src="<%= Page.ResolveUrl("~/Contents/Images/guia_facturacion.jpg")%>" width="17" height="16" border="0" alt="Guía de facturación" />
+                                </a>
+                            </td>
+                            <%--                            <td style="width: 27px; text-align: right;">
+                                <a href="Contents/GuiasPDF/GUIA_ACTUALIZACION.pdf" target="_blank" title="Guía para Actualizar Datos de Facturación." data-toggle="tooltip">
+                                    <img src="../Contents/Images/guia_actualizacion.jpg" width="17" height="16" border="0" alt="Guía de actualización" />
+                                </a>
+                            </td>
+                            <td style="width: 34px; text-align: right;">
+                                <a href="Contents/GuiasPDF/GUIA_REENVIO.pdf" target="_blank" title="Guía para Reenvío de Facturas." data-toggle="tooltip">
+                                    <img src="../Contents/Images/guia_reenvio.jpg" width="24" height="16" border="0"  alt="Guía de reenvío" />
+                                </a>
+                            </td>--%>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <div class="separacion_20"></div>
+        <div>
+            <form id="form1" runat="server">
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+        </div>
+        <div class="footerPage">
+            <a style="border-right: solid 1px #30b131;" href="https://www.vivaaerobus.com/mx" title="VivaAerobus, La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, 
+                                                                    ofertas, promociones y descuentos."
+                target="_blank" data-toggle="tooltip">VivaAerobus
+            </a>
+            <a style="border-right: solid 1px #30b131;" href="https://www.vivaaerobus.com/mx/promociones/promociones-de-vuelos" title="VivaAerobus, La Aerol&#237;nea de bajo costo de 
+                                            M&#233;xico. Los mejores precios, ofertas, promociones y descuentos."
+                target="_blank" data-toggle="tooltip">La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, ofertas, promociones y descuentos.
+            </a>
+            <a href="https://www.vivaaerobus.com/upload/mx/legales/Vivaaerobus-AvisoPrivacidadMayo2013.pdf" title="Aviso de Privacidad."
+                id="footerLinksultimo" target="_blank" data-toggle="tooltip">Aviso Privacidad
+            </a>
+        </div>
+    </div>
+</body>
+</html>

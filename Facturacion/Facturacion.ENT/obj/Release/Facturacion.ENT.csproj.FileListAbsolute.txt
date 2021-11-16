@@ -1,0 +1,17 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Release\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Release\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Release\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\bin\Release\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Release\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Release\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Facturacion.ENT\obj\Release\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\bin\Release\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Release\Facturacion.ENT.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Release\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Facturacion.ENT\obj\Release\Facturacion.ENT.pdb

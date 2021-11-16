@@ -1,0 +1,2569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions name="EmisionBaseExternalService"
+targetNamespace="http://namespace.pegasotecnologia.com/SCFD"
+xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/"
+xmlns:tns="http://namespace.pegasotecnologia.com/SCFD"
+xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing"
+xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy"
+xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy"
+xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl"
+xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract"
+xmlns:wsa10="http://www.w3.org/2005/08/addressing"
+xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex"
+xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata">
+  <wsp:Policy wsu:Id="WSHttpBinding_IEmisionBaseExternalService_policy">
+
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://namespace.pegasotecnologia.com/SCFD"
+    xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/">
+
+      <xsd:element name="emitirCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="emitirCFDResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="WCFServiceFault">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="ExceptionName"
+          nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" name="FaultId"
+          type="ser:guid" />
+          <xsd:element minOccurs="0" name="FaultMessage"
+          nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="WCFServiceFault" nillable="true"
+      type="tns:WCFServiceFault" />
+      <xsd:element name="emitirCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="emitirCFDStringResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirStringCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirStringCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="emitirStringCFDStringResult" nillable="true"
+            type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirCFDToBase64">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="emitirCFDToBase64Response">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="emitirCFDToBase64Result" nillable="true"
+            type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="cancelarCFDResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="cancelarCFDStringResult" nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFDPorIdTransaccion">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="numTransaccion"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="rfcEmisor"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="cancelarCFDPorIdTransaccionResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="cancelarCFDPorIdTransaccionResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reemitirCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reemitirCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="reemitirCFDResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reemitirCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PoRequestCFD"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reemitirCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="reemitirCFDStringResult" nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="consultarCFDResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="consultarCFDStringResult" nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFDPorIdTransaccion">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="numTransaccion"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="rfcEmisor"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarCFDPorIdTransaccionResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="consultarCFDPorIdTransaccionResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reenviarCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reenviarCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="reenviarCFDResult"
+            nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reenviarCFDString">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PoRequestAdmon"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="reenviarCFDStringResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="reenviarCFDStringResult" nillable="true">
+              <xsd:complexType>
+                <xsd:sequence>
+                  <xsd:any minOccurs="0" processContents="lax" />
+                </xsd:sequence>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarPDF">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PsRFCEmisor"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsSerie"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsFolio"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="PsSucursal"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarPDFResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="consultarPDFResult"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarXML">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PsRFCEmisor"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsSerie"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsFolio"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="PsSucursal"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarXMLResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="consultarXMLResult"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarPDF_EdoCta">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PsRFC" nillable="true"
+            type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsCuenta"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="PsFecha"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsSucursal"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsRFCCliente"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsTCNombre"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsTCClave"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarPDF_EdoCtaResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="consultarPDF_EdoCtaResult" nillable="true"
+            type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarXML_EdoCta">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PsRFC" nillable="true"
+            type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsCuenta"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="PsFecha"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsSucursal"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsRFCCliente"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsTCNombre"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsTCClave"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="consultarXML_EdoCtaResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="consultarXML_EdoCtaResult" nillable="true"
+            type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerIdComprobantePorIdTransaccion">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="idTransaccion"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerIdComprobantePorIdTransaccionResponse">
+
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="obtenerIdComprobantePorIdTransaccionResult"
+            type="xsd:long" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="generarPDF">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="idComprobante"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="pTerceros"
+            type="xsd:boolean" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="generarPDFResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="generarPDFResult"
+            type="q1:StreamBody"
+            xmlns:q1="http://schemas.microsoft.com/Message" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerDatosCFDFA">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="PsRFCRecep"
+            nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="0" name="PsFolioERP"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerDatosCFDFAResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="obtenerDatosCFDFAResult" nillable="true"
+            type="q2:CFDComprobante"
+            xmlns:q2="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Emision.Base.Comunes" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerCorreoReceptor">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="idComprobante"
+            type="xsd:long" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="obtenerCorreoReceptorResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0"
+            name="obtenerCorreoReceptorResult" nillable="true"
+            type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="enviarCorreoCFD">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="idComprobante"
+            type="xsd:long" />
+            <xsd:element minOccurs="0" name="correo"
+            nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="enviarCorreoCFDResponse">
+        <xsd:complexType>
+          <xsd:sequence />
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+    <xs:schema attributeFormDefault="qualified"
+    elementFormDefault="qualified"
+    targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/">
+
+      <xs:element name="anyType" nillable="true"
+      type="xs:anyType" />
+      <xs:element name="anyURI" nillable="true" type="xs:anyURI" />
+      <xs:element name="base64Binary" nillable="true"
+      type="xs:base64Binary" />
+      <xs:element name="boolean" nillable="true"
+      type="xs:boolean" />
+      <xs:element name="byte" nillable="true" type="xs:byte" />
+      <xs:element name="dateTime" nillable="true"
+      type="xs:dateTime" />
+      <xs:element name="decimal" nillable="true"
+      type="xs:decimal" />
+      <xs:element name="double" nillable="true" type="xs:double" />
+      <xs:element name="float" nillable="true" type="xs:float" />
+      <xs:element name="int" nillable="true" type="xs:int" />
+      <xs:element name="long" nillable="true" type="xs:long" />
+      <xs:element name="QName" nillable="true" type="xs:QName" />
+      <xs:element name="short" nillable="true" type="xs:short" />
+      <xs:element name="string" nillable="true" type="xs:string" />
+      <xs:element name="unsignedByte" nillable="true"
+      type="xs:unsignedByte" />
+      <xs:element name="unsignedInt" nillable="true"
+      type="xs:unsignedInt" />
+      <xs:element name="unsignedLong" nillable="true"
+      type="xs:unsignedLong" />
+      <xs:element name="unsignedShort" nillable="true"
+      type="xs:unsignedShort" />
+      <xs:element name="char" nillable="true" type="tns:char" />
+      <xs:simpleType name="char">
+        <xs:restriction base="xs:int" />
+      </xs:simpleType>
+      <xs:element name="duration" nillable="true"
+      type="tns:duration" />
+      <xs:simpleType name="duration">
+        <xs:restriction base="xs:duration">
+          <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?" />
+          <xs:minInclusive value="-P10675199DT2H48M5.4775808S" />
+          <xs:maxInclusive value="P10675199DT2H48M5.4775807S" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:element name="guid" nillable="true" type="tns:guid" />
+      <xs:simpleType name="guid">
+        <xs:restriction base="xs:string">
+          <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:attribute name="FactoryType" type="xs:QName" />
+      <xs:attribute name="Id" type="xs:ID" />
+      <xs:attribute name="Ref" type="xs:IDREF" />
+    </xs:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.microsoft.com/Message">
+      <xsd:simpleType name="StreamBody">
+        <xsd:restriction base="xsd:base64Binary" />
+      </xsd:simpleType>
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Emision.Base.Comunes"
+    xmlns:tns="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Emision.Base.Comunes"
+    xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/">
+
+      <xsd:complexType name="CFDComprobante">
+        <xsd:sequence>
+          <xsd:element name="_x003C_CadenaOriginal_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_ClaseTipoComprobante_x003E_k__BackingField"
+          type="xsd:int" />
+          <xsd:element name="_x003C_ClaveTipoComprobante_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_Comprobante_x003E_k__BackingField"
+          nillable="true" type="tns:Comprobante" />
+          <xsd:element name="_x003C_Conceptos_x003E_k__BackingField"
+          nillable="true" type="tns:ArrayOfCFDConcepto" />
+          <xsd:element name="_x003C_DescripcionTipoComprobante_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_EstaCancelado_x003E_k__BackingField"
+          type="xsd:boolean" />
+          <xsd:element name="_x003C_EstaImpreso_x003E_k__BackingField"
+          type="xsd:boolean" />
+          <xsd:element name="_x003C_FolioFiscal_x003E_k__BackingField"
+          type="ser:guid" />
+          <xsd:element name="_x003C_IDCertificado_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDComprobante_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDCondicionesPago_x003E_k__BackingField"
+          type="xsd:int" />
+          <xsd:element name="_x003C_IDEmisor_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDMetodoPago_x003E_k__BackingField"
+          type="xsd:int" />
+          <xsd:element name="_x003C_IDMoneda_x003E_k__BackingField"
+          type="xsd:int" />
+          <xsd:element name="_x003C_IDReceptor_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDSerie_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDSucursal_x003E_k__BackingField"
+          type="xsd:long" />
+          <xsd:element name="_x003C_IDTipoComprobante_x003E_k__BackingField"
+          type="xsd:int" />
+          <xsd:element name="_x003C_Moneda_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_NombreTipoComprobante_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_PlantillaEmisor_x003E_k__BackingField"
+          nillable="true" type="tns:CFDPlantillaEmisor" />
+          <xsd:element name="_x003C_RfcReceptor_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_Sucursal_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_TFD_x003E_k__BackingField"
+          nillable="true" type="q3:TimbreFiscalDigital"
+          xmlns:q3="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Comun.Comunes.Entidades" />
+          <xsd:element name="_x003C_TipoCambio_x003E_k__BackingField"
+          type="xsd:decimal" />
+          <xsd:element name="_x003C_folioAddenda_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_g_xml_acuse_cancelacion_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_numTransaccion_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="_x003C_plantillaAddenda_x003E_k__BackingField"
+          nillable="true" type="tns:CFDPlantilla" />
+          <xsd:element name="_x003C_receptor_x003E_k__BackingField"
+          nillable="true" type="tns:CFDReceptor" />
+          <xsd:element name="_x003C_xmlComprobante_x003E_k__BackingField"
+          nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDComprobante" nillable="true"
+      type="tns:CFDComprobante" />
+      <xsd:complexType name="Comprobante">
+        <xsd:sequence>
+          <xsd:element name="CadenaOriginal" nillable="true"
+          type="q4:StringBuilder"
+          xmlns:q4="http://schemas.datacontract.org/2004/07/System.Text" />
+          <xsd:element name="_x003C_fechaInterna_x003E_k__BackingField"
+          type="xsd:dateTime" />
+          <xsd:element name="m_Addenda" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_Complemento" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_Conceptos" nillable="true"
+          type="tns:ArrayOfConcepto" />
+          <xsd:element name="m_Emisor" nillable="true"
+          type="tns:Emisor" />
+          <xsd:element name="m_Impuestos" nillable="true"
+          type="tns:Impuestos" />
+          <xsd:element name="m_Receptor" nillable="true"
+          type="tns:Receptor" />
+          <xsd:element name="m_anoAprobacion" type="xsd:int" />
+          <xsd:element name="m_certificado" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_condicionesPago" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_descuento" type="xsd:decimal" />
+          <xsd:element name="m_descuentoMonto"
+          type="xsd:decimal" />
+          <xsd:element name="m_descuentoPorciento"
+          type="xsd:decimal" />
+          <xsd:element name="m_descuentoSpecified"
+          type="xsd:boolean" />
+          <xsd:element name="m_folio" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_formaPago" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_metodoPago" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_motivoDescuento" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noAprobacion" type="xsd:int" />
+          <xsd:element name="m_noCertificado" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_sello" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_serie" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_subtotal" type="xsd:decimal" />
+          <xsd:element name="m_tipoComprobante" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_total" type="xsd:decimal" />
+          <xsd:element name="m_version" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Comprobante" nillable="true"
+      type="tns:Comprobante" />
+      <xsd:complexType name="ArrayOfConcepto">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="Concepto" nillable="true" type="tns:Concepto" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfConcepto" nillable="true"
+      type="tns:ArrayOfConcepto" />
+      <xsd:complexType name="Concepto">
+        <xsd:sequence>
+          <xsd:element name="InformacionAduanerasV2"
+          nillable="true" type="tns:ArrayOfInformacionAduanera" />
+          <xsd:element name="_idOtroConc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="iIdProducto" type="xsd:long" />
+          <xsd:element name="lstImpuesto" nillable="true"
+          type="tns:ArrayOfCFDImpuestoPorConcepto" />
+          <xsd:element name="m_Parte" nillable="true"
+          type="tns:ArrayOfParte" />
+          <xsd:element name="m_cantidad" type="xsd:decimal" />
+          <xsd:element name="m_complementoConcepto" nillable="true"
+          type="tns:ComplementoConcepto" />
+          <xsd:element name="m_cuentaPredial" nillable="true"
+          type="tns:CuentaPredial" />
+          <xsd:element name="m_descripcion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_descuento" type="xsd:decimal" />
+          <xsd:element name="m_descuentoG" type="xsd:decimal" />
+          <xsd:element name="m_descuentoMonto"
+          type="xsd:decimal" />
+          <xsd:element name="m_descuentoPorciento"
+          type="xsd:decimal" />
+          <xsd:element name="m_idConcepto" type="xsd:int" />
+          <xsd:element name="m_importe" type="xsd:decimal" />
+          <xsd:element name="m_importeFinal" type="xsd:decimal" />
+          <xsd:element name="m_impuestoDesc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noIdentificacion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_unidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_valorUnitario" type="xsd:decimal" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Concepto" nillable="true"
+      type="tns:Concepto" />
+      <xsd:complexType name="ArrayOfInformacionAduanera">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="InformacionAduanera" nillable="true"
+          type="tns:InformacionAduanera" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfInformacionAduanera"
+      nillable="true" type="tns:ArrayOfInformacionAduanera" />
+      <xsd:complexType name="InformacionAduanera">
+        <xsd:sequence>
+          <xsd:element name="_x003C_fechaInterna_x003E_k__BackingField"
+          type="xsd:dateTime" />
+          <xsd:element name="m_aduana" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_idInformacion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_numero" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="InformacionAduanera" nillable="true"
+      type="tns:InformacionAduanera" />
+      <xsd:complexType name="ArrayOfCFDImpuestoPorConcepto">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="CFDImpuestoPorConcepto" nillable="true"
+          type="tns:CFDImpuestoPorConcepto" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfCFDImpuestoPorConcepto"
+      nillable="true" type="tns:ArrayOfCFDImpuestoPorConcepto" />
+      <xsd:complexType name="CFDImpuestoPorConcepto">
+        <xsd:sequence>
+          <xsd:element name="m_idConcepto" type="xsd:int" />
+          <xsd:element name="m_importeConcepto"
+          type="xsd:decimal" />
+          <xsd:element name="m_impuestoConcepto" type="xsd:int" />
+          <xsd:element name="m_tasaConcepto" type="xsd:decimal" />
+          <xsd:element name="m_tipoImpuestoConcepto"
+          nillable="true" type="tns:CFDTipoImpuestoPorConcepto" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDImpuestoPorConcepto" nillable="true"
+      type="tns:CFDImpuestoPorConcepto" />
+      <xsd:complexType name="CFDTipoImpuestoPorConcepto">
+        <xsd:sequence>
+          <xsd:element name="m_descripcionConcepto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_tipoConcepto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_tipoImpuestoConcepto"
+          type="xsd:short" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDTipoImpuestoPorConcepto"
+      nillable="true" type="tns:CFDTipoImpuestoPorConcepto" />
+      <xsd:complexType name="ArrayOfParte">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="Parte" nillable="true" type="tns:Parte" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfParte" nillable="true"
+      type="tns:ArrayOfParte" />
+      <xsd:complexType name="Parte">
+        <xsd:sequence>
+          <xsd:element name="m_InformacionAduanerasV2"
+          nillable="true" type="tns:ArrayOfInformacionAduanera" />
+          <xsd:element name="m_cantidad" type="xsd:decimal" />
+          <xsd:element name="m_descripcion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_importe" type="xsd:decimal" />
+          <xsd:element name="m_importeSpecified"
+          type="xsd:boolean" />
+          <xsd:element name="m_noIdentificacion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_unidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_valorUnitario" type="xsd:decimal" />
+          <xsd:element name="m_valorUnitarioSpecified"
+          type="xsd:boolean" />
+          <xsd:element name="sIdParte" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Parte" nillable="true" type="tns:Parte" />
+      <xsd:complexType name="ComplementoConcepto">
+        <xsd:sequence>
+          <xsd:element name="m_cuentaTerceros" nillable="true"
+          type="tns:PorCuentadeTerceros" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ComplementoConcepto" nillable="true"
+      type="tns:ComplementoConcepto" />
+      <xsd:complexType name="PorCuentadeTerceros">
+        <xsd:sequence>
+          <xsd:element name="m_infoFiscalTerceros" nillable="true"
+          type="tns:InformacionFiscalTercero" />
+          <xsd:element name="m_nombre" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_rfc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_version" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="PorCuentadeTerceros" nillable="true"
+      type="tns:PorCuentadeTerceros" />
+      <xsd:complexType name="InformacionFiscalTercero">
+        <xsd:sequence>
+          <xsd:element name="m_CuentaPredial" nillable="true"
+          type="tns:CuentaPredial" />
+          <xsd:element name="m_Parte" nillable="true"
+          type="tns:ArrayOfParte" />
+          <xsd:element name="m_calle" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_codigoPostal" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_colonia" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_estado" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_infoAduanera" nillable="true"
+          type="tns:InformacionAduanera" />
+          <xsd:element name="m_infoAduaneraTerceros"
+          nillable="true" type="tns:ArrayOfInformacionAduanera" />
+          <xsd:element name="m_localidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_municipio" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noExterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noInterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_pais" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_referencia" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="InformacionFiscalTercero" nillable="true"
+      type="tns:InformacionFiscalTercero" />
+      <xsd:complexType name="CuentaPredial">
+        <xsd:sequence>
+          <xsd:element name="m_numero" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CuentaPredial" nillable="true"
+      type="tns:CuentaPredial" />
+      <xsd:complexType name="Emisor">
+        <xsd:sequence>
+          <xsd:element name="m_domFiscal" nillable="true"
+          type="tns:DomicilioFiscal" />
+          <xsd:element name="m_expedidoEn" nillable="true"
+          type="tns:ExpedidoEn" />
+          <xsd:element name="m_nombre" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_rfc" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Emisor" nillable="true"
+      type="tns:Emisor" />
+      <xsd:complexType name="DomicilioFiscal">
+        <xsd:complexContent mixed="false">
+          <xsd:extension base="tns:Domicilio">
+            <xsd:sequence />
+          </xsd:extension>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:element name="DomicilioFiscal" nillable="true"
+      type="tns:DomicilioFiscal" />
+      <xsd:complexType name="Domicilio">
+        <xsd:sequence>
+          <xsd:element name="m_calle" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_codigoPostal" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_colonia" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_estado" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_localidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_municipio" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noExterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noInterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_pais" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_referencia" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Domicilio" nillable="true"
+      type="tns:Domicilio" />
+      <xsd:complexType name="ExpedidoEn">
+        <xsd:complexContent mixed="false">
+          <xsd:extension base="tns:Domicilio">
+            <xsd:sequence />
+          </xsd:extension>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:element name="ExpedidoEn" nillable="true"
+      type="tns:ExpedidoEn" />
+      <xsd:complexType name="Impuestos">
+        <xsd:sequence>
+          <xsd:element name="m_Retenciones" nillable="true"
+          type="tns:ArrayOfRetencion" />
+          <xsd:element name="m_Traslados" nillable="true"
+          type="tns:ArrayOfTraslado" />
+          <xsd:element name="m_totalImpuestosRetenidos"
+          type="xsd:decimal" />
+          <xsd:element name="m_totalImpuestosRetenidosSpecified"
+          type="xsd:boolean" />
+          <xsd:element name="m_totalImpuestosTrasladados"
+          type="xsd:decimal" />
+          <xsd:element name="m_totalImpuestosTrasladadosSpecified"
+          type="xsd:boolean" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Impuestos" nillable="true"
+      type="tns:Impuestos" />
+      <xsd:complexType name="ArrayOfRetencion">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="Retencion" nillable="true" type="tns:Retencion" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfRetencion" nillable="true"
+      type="tns:ArrayOfRetencion" />
+      <xsd:complexType name="Retencion">
+        <xsd:sequence>
+          <xsd:element name="_idOtraRet" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_importe" type="xsd:decimal" />
+          <xsd:element name="m_impuesto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_tasa" type="xsd:decimal" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Retencion" nillable="true"
+      type="tns:Retencion" />
+      <xsd:complexType name="ArrayOfTraslado">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="Traslado" nillable="true" type="tns:Traslado" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfTraslado" nillable="true"
+      type="tns:ArrayOfTraslado" />
+      <xsd:complexType name="Traslado">
+        <xsd:sequence>
+          <xsd:element name="_idOtroTras" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_importe" type="xsd:decimal" />
+          <xsd:element name="m_impuesto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_tasa" type="xsd:decimal" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Traslado" nillable="true"
+      type="tns:Traslado" />
+      <xsd:complexType name="Receptor">
+        <xsd:sequence>
+          <xsd:element name="m_dom" nillable="true"
+          type="tns:Domicilio" />
+          <xsd:element name="m_nombre" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_rfc" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="Receptor" nillable="true"
+      type="tns:Receptor" />
+      <xsd:complexType name="ArrayOfCFDConcepto">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="CFDConcepto" nillable="true"
+          type="tns:CFDConcepto" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfCFDConcepto" nillable="true"
+      type="tns:ArrayOfCFDConcepto" />
+      <xsd:complexType name="CFDConcepto">
+        <xsd:sequence>
+          <xsd:element name="_idOtroConc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="lstImpuesto" nillable="true"
+          type="tns:ArrayOfCFDImpuestoPorConcepto" />
+          <xsd:element name="lstInformacionAduanera"
+          nillable="true" type="tns:ArrayOfInformacionAduanera" />
+          <xsd:element name="lstParte" nillable="true"
+          type="tns:ArrayOfParte" />
+          <xsd:element name="m_cantidad" type="xsd:decimal" />
+          <xsd:element name="m_complemento" nillable="true"
+          type="tns:ComplementoConcepto" />
+          <xsd:element name="m_cuentaPredial" nillable="true"
+          type="tns:CuentaPredial" />
+          <xsd:element name="m_descripcion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_descuento" type="xsd:decimal" />
+          <xsd:element name="m_descuentoMonto"
+          type="xsd:decimal" />
+          <xsd:element name="m_descuentoPorciento"
+          type="xsd:decimal" />
+          <xsd:element name="m_idConcepto" type="xsd:int" />
+          <xsd:element name="m_idProducto" type="xsd:long" />
+          <xsd:element name="m_importe" type="xsd:decimal" />
+          <xsd:element name="m_impuestoDesc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_motivoDescuento" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noIdentificacion" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_unidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_valorUnitario" type="xsd:decimal" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDConcepto" nillable="true"
+      type="tns:CFDConcepto" />
+      <xsd:complexType name="CFDPlantillaEmisor">
+        <xsd:sequence>
+          <xsd:element name="c_emisor" type="xsd:long" />
+          <xsd:element name="c_plantilla" type="xsd:int" />
+          <xsd:element name="d_nombreEmisor" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_nombrepantilla" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_prefijo" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_url" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDPlantillaEmisor" nillable="true"
+      type="tns:CFDPlantillaEmisor" />
+      <xsd:complexType name="CFDPlantilla">
+        <xsd:sequence>
+          <xsd:element name="bemisor" type="xsd:boolean" />
+          <xsd:element name="bincluirURL" type="xsd:boolean" />
+          <xsd:element name="d_prefijo" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="d_url" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="esquema" type="xsd:int" />
+          <xsd:element name="idplantilla" type="xsd:int" />
+          <xsd:element name="idtipoComprobante" type="xsd:int" />
+          <xsd:element name="lIdEmisor" type="xsd:long" />
+          <xsd:element name="lstEmisores" nillable="true"
+          type="tns:ArrayOfCFDPlantillaEmisor" />
+          <xsd:element name="nombreTipoComprobante" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="nombre_tipo" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="nombreplantilla" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="plantilla" nillable="true">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:any minOccurs="0" processContents="lax" />
+              </xsd:sequence>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="sPlantilla" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="tipo" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDPlantilla" nillable="true"
+      type="tns:CFDPlantilla" />
+      <xsd:complexType name="ArrayOfCFDPlantillaEmisor">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded"
+          name="CFDPlantillaEmisor" nillable="true"
+          type="tns:CFDPlantillaEmisor" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ArrayOfCFDPlantillaEmisor" nillable="true"
+      type="tns:ArrayOfCFDPlantillaEmisor" />
+      <xsd:complexType name="CFDReceptor">
+        <xsd:sequence>
+          <xsd:element name="m_IdEmisor" type="xsd:long" />
+          <xsd:element name="m_IdReceptor" type="xsd:long" />
+          <xsd:element name="m_apellidoMaterno" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_apellidoPaterno" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_clave_cliente" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_codigocliente" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_correoElectronico" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_domFiscal" nillable="true"
+          type="tns:CFDDomicilio" />
+          <xsd:element name="m_emisor" nillable="true"
+          type="tns:CFDEmisor" />
+          <xsd:element name="m_fechaAsignacion"
+          type="xsd:dateTime" />
+          <xsd:element name="m_fechaVencimiento"
+          type="xsd:dateTime" />
+          <xsd:element name="m_nombre" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_plantilla_addenda" type="xsd:int" />
+          <xsd:element name="m_recepcion" type="xsd:boolean" />
+          <xsd:element name="m_rfc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_subcuentaClientes" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_subcuentaIngresos" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="sNombreCompleto" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDReceptor" nillable="true"
+      type="tns:CFDReceptor" />
+      <xsd:complexType name="CFDDomicilio">
+        <xsd:sequence>
+          <xsd:element name="bColonia_Localidad"
+          type="xsd:boolean" />
+          <xsd:element name="m_IdDomicilio" type="xsd:long" />
+          <xsd:element name="m_calle" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_codigoPostal" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_colonia" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_estado" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_id_colonia" type="xsd:int" />
+          <xsd:element name="m_id_cp" type="xsd:int" />
+          <xsd:element name="m_id_edo" type="xsd:int" />
+          <xsd:element name="m_id_localidad" type="xsd:int" />
+          <xsd:element name="m_id_municipio" type="xsd:int" />
+          <xsd:element name="m_id_pais" type="xsd:int" />
+          <xsd:element name="m_id_tipo_domicilio" type="xsd:int" />
+          <xsd:element name="m_id_tp_asentamiento"
+          type="xsd:int" />
+          <xsd:element name="m_localidad" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_municipio" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noExterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_noInterior" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_pais" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_referencia" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDDomicilio" nillable="true"
+      type="tns:CFDDomicilio" />
+      <xsd:complexType name="CFDEmisor">
+        <xsd:sequence>
+          <xsd:element name="b_membership" type="xsd:boolean" />
+          <xsd:element name="m_AdmonSerieFolio" type="xsd:int" />
+          <xsd:element name="m_Contrato" nillable="true"
+          type="q5:Stream"
+          xmlns:q5="http://schemas.datacontract.org/2004/07/System.IO" />
+          <xsd:element name="m_Firma" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_IdEmisor" type="xsd:long" />
+          <xsd:element name="m_IdEmisorCorporativo"
+          type="xsd:long" />
+          <xsd:element name="m_IdProspecto" type="xsd:long" />
+          <xsd:element name="m_IdUsuario" type="xsd:long" />
+          <xsd:element name="m_NombreCorto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_NumEmpresas" type="xsd:int" />
+          <xsd:element name="m_apellidoMaterno" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_apellidoPaterno" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_conAddenda" type="xsd:int" />
+          <xsd:element name="m_correoElectronico" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_domFiscal" nillable="true"
+          type="tns:CFDDomicilio" />
+          <xsd:element name="m_donatarios" nillable="true"
+          type="tns:DonatariasDTO" />
+          <xsd:element name="m_fechaAsignacion"
+          type="xsd:dateTime" />
+          <xsd:element name="m_fechaVencimiento"
+          type="xsd:dateTime" />
+          <xsd:element name="m_formaPago" type="xsd:int" />
+          <xsd:element name="m_nombre" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_rfc" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="m_servicioBatch" type="xsd:int" />
+          <xsd:element name="m_servicioWeb" type="xsd:int" />
+          <xsd:element name="m_sinAddenda" type="xsd:int" />
+          <xsd:element name="sNombreCompleto" nillable="true"
+          type="xsd:string" />
+          <xsd:element name="sNombreRepresentanteLegal"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="sRFCRepresentanteLegal"
+          nillable="true" type="xsd:string" />
+          <xsd:element name="sTelefono" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CFDEmisor" nillable="true"
+      type="tns:CFDEmisor" />
+      <xsd:complexType name="DonatariasDTO">
+        <xsd:sequence>
+          <xsd:element name="emisorField" type="xsd:long" />
+          <xsd:element name="fechaAutorizacionField"
+          type="xsd:dateTime" />
+          <xsd:element name="noAutorizacionField" nillable="true"
+          type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="DonatariasDTO" nillable="true"
+      type="tns:DonatariasDTO" />
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Comun.Comunes.Entidades"
+    xmlns:tns="http://schemas.datacontract.org/2004/07/Pegaso.SCFD.Comun.Comunes.Entidades">
+
+      <xsd:complexType name="TimbreFiscalDigital">
+        <xsd:sequence>
+          <xsd:element ref="xsd:schema" />
+          <xsd:any />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="TimbreFiscalDigital" nillable="true"
+      type="tns:TimbreFiscalDigital" />
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.datacontract.org/2004/07/System.Text"
+    xmlns:tns="http://schemas.datacontract.org/2004/07/System.Text"
+    xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/">
+
+      <xsd:complexType name="StringBuilder">
+        <xsd:sequence>
+          <xsd:any minOccurs="0" maxOccurs="unbounded"
+          namespace="##local" processContents="skip" />
+        </xsd:sequence>
+        <xsd:attribute ref="ser:FactoryType" />
+      </xsd:complexType>
+      <xsd:element name="StringBuilder" nillable="true"
+      type="tns:StringBuilder" />
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.datacontract.org/2004/07/System.IO"
+    xmlns:tns="http://schemas.datacontract.org/2004/07/System.IO">
+      <xsd:complexType name="Stream">
+        <xsd:complexContent mixed="false">
+          <xsd:extension base="q6:MarshalByRefObject"
+          xmlns:q6="http://schemas.datacontract.org/2004/07/System">
+
+            <xsd:sequence />
+          </xsd:extension>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:element name="Stream" nillable="true"
+      type="tns:Stream" />
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified"
+    targetNamespace="http://schemas.datacontract.org/2004/07/System"
+    xmlns:tns="http://schemas.datacontract.org/2004/07/System">
+      <xsd:complexType name="MarshalByRefObject">
+        <xsd:sequence>
+          <xsd:element name="__identity" nillable="true"
+          type="xsd:anyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="MarshalByRefObject" nillable="true"
+      type="tns:MarshalByRefObject" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:emitirCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFD_OutputMessage">
+
+    <wsdl:part name="parameters" element="tns:emitirCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDString_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:emitirCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:emitirCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirStringCFDString_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:emitirStringCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirStringCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:emitirStringCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirStringCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDToBase64_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:emitirCFDToBase64" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDToBase64_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:emitirCFDToBase64Response" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_emitirCFDToBase64_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:cancelarCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFD_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:cancelarCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDString_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:cancelarCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:cancelarCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:cancelarCFDPorIdTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:cancelarCFDPorIdTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:reemitirCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFD_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:reemitirCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFDString_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:reemitirCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:reemitirCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reemitirCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:consultarCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFD_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDString_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDPorIdTransaccion_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarCFDPorIdTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDPorIdTransaccion_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarCFDPorIdTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarCFDPorIdTransaccion_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:reenviarCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFD_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:reenviarCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFDString_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:reenviarCFDString" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFDString_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:reenviarCFDStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_reenviarCFDString_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:consultarPDF" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarPDFResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:consultarXML" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_EdoCta_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarPDF_EdoCta" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_EdoCta_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarPDF_EdoCtaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarPDF_EdoCta_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_EdoCta_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarXML_EdoCta" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_EdoCta_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:consultarXML_EdoCtaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_consultarXML_EdoCta_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:obtenerIdComprobantePorIdTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:obtenerIdComprobantePorIdTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_generarPDF_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:generarPDF" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_generarPDF_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:generarPDFResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_generarPDF_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerDatosCFDFA_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:obtenerDatosCFDFA" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerDatosCFDFA_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:obtenerDatosCFDFAResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerDatosCFDFA_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerCorreoReceptor_InputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:obtenerCorreoReceptor" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerCorreoReceptor_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:obtenerCorreoReceptorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_obtenerCorreoReceptor_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_enviarCorreoCFD_InputMessage">
+
+    <wsdl:part name="parameters" element="tns:enviarCorreoCFD" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_enviarCorreoCFD_OutputMessage">
+
+    <wsdl:part name="parameters"
+    element="tns:enviarCorreoCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmisionBaseExternalService_enviarCorreoCFD_WCFServiceFaultFault_FaultMessage">
+
+    <wsdl:part name="detail" element="tns:WCFServiceFault" />
+  </wsdl:message>
+  <wsdl:portType name="IEmisionBaseExternalService">
+    <wsdl:operation name="emitirCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFD"
+      message="tns:IEmisionBaseExternalService_emitirCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDResponse"
+      message="tns:IEmisionBaseExternalService_emitirCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_emitirCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDString"
+      message="tns:IEmisionBaseExternalService_emitirCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_emitirCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_emitirCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="emitirStringCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirStringCFDString"
+      message="tns:IEmisionBaseExternalService_emitirStringCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirStringCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_emitirStringCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirStringCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_emitirStringCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDToBase64">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDToBase64"
+      message="tns:IEmisionBaseExternalService_emitirCFDToBase64_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDToBase64Response"
+      message="tns:IEmisionBaseExternalService_emitirCFDToBase64_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDToBase64WCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_emitirCFDToBase64_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFD"
+      message="tns:IEmisionBaseExternalService_cancelarCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDResponse"
+      message="tns:IEmisionBaseExternalService_cancelarCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_cancelarCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDString"
+      message="tns:IEmisionBaseExternalService_cancelarCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_cancelarCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_cancelarCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDPorIdTransaccion">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDPorIdTransaccion"
+      message="tns:IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDPorIdTransaccionResponse"
+      message="tns:IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDPorIdTransaccionWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_cancelarCFDPorIdTransaccion_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFD"
+      message="tns:IEmisionBaseExternalService_reemitirCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDResponse"
+      message="tns:IEmisionBaseExternalService_reemitirCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_reemitirCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDString"
+      message="tns:IEmisionBaseExternalService_reemitirCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_reemitirCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_reemitirCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFD"
+      message="tns:IEmisionBaseExternalService_consultarCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDResponse"
+      message="tns:IEmisionBaseExternalService_consultarCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDString"
+      message="tns:IEmisionBaseExternalService_consultarCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_consultarCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDPorIdTransaccion">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDPorIdTransaccion"
+      message="tns:IEmisionBaseExternalService_consultarCFDPorIdTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDPorIdTransaccionResponse"
+      message="tns:IEmisionBaseExternalService_consultarCFDPorIdTransaccion_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDPorIdTransaccionWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarCFDPorIdTransaccion_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFD"
+      message="tns:IEmisionBaseExternalService_reenviarCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDResponse"
+      message="tns:IEmisionBaseExternalService_reenviarCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_reenviarCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFDString">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDString"
+      message="tns:IEmisionBaseExternalService_reenviarCFDString_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDStringResponse"
+      message="tns:IEmisionBaseExternalService_reenviarCFDString_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDStringWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_reenviarCFDString_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF"
+      message="tns:IEmisionBaseExternalService_consultarPDF_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDFResponse"
+      message="tns:IEmisionBaseExternalService_consultarPDF_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDFWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarPDF_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML"
+      message="tns:IEmisionBaseExternalService_consultarXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXMLResponse"
+      message="tns:IEmisionBaseExternalService_consultarXML_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXMLWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarXML_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF_EdoCta">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF_EdoCta"
+      message="tns:IEmisionBaseExternalService_consultarPDF_EdoCta_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF_EdoCtaResponse"
+      message="tns:IEmisionBaseExternalService_consultarPDF_EdoCta_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF_EdoCtaWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarPDF_EdoCta_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML_EdoCta">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML_EdoCta"
+      message="tns:IEmisionBaseExternalService_consultarXML_EdoCta_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML_EdoCtaResponse"
+      message="tns:IEmisionBaseExternalService_consultarXML_EdoCta_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML_EdoCtaWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_consultarXML_EdoCta_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerIdComprobantePorIdTransaccion">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerIdComprobantePorIdTransaccion"
+      message="tns:IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerIdComprobantePorIdTransaccionResponse"
+      message="tns:IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerIdComprobantePorIdTransaccionWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_obtenerIdComprobantePorIdTransaccion_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="generarPDF">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/generarPDF"
+      message="tns:IEmisionBaseExternalService_generarPDF_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/generarPDFResponse"
+      message="tns:IEmisionBaseExternalService_generarPDF_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/generarPDFWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_generarPDF_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDatosCFDFA">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerDatosCFDFA"
+      message="tns:IEmisionBaseExternalService_obtenerDatosCFDFA_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerDatosCFDFAResponse"
+      message="tns:IEmisionBaseExternalService_obtenerDatosCFDFA_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerDatosCFDFAWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_obtenerDatosCFDFA_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCorreoReceptor">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerCorreoReceptor"
+      message="tns:IEmisionBaseExternalService_obtenerCorreoReceptor_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerCorreoReceptorResponse"
+      message="tns:IEmisionBaseExternalService_obtenerCorreoReceptor_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerCorreoReceptorWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_obtenerCorreoReceptor_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="enviarCorreoCFD">
+      <wsdl:input wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/enviarCorreoCFD"
+      message="tns:IEmisionBaseExternalService_enviarCorreoCFD_InputMessage" />
+      <wsdl:output wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/enviarCorreoCFDResponse"
+      message="tns:IEmisionBaseExternalService_enviarCorreoCFD_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/enviarCorreoCFDWCFServiceFaultFault"
+      name="WCFServiceFaultFault"
+      message="tns:IEmisionBaseExternalService_enviarCorreoCFD_WCFServiceFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSHttpBinding_IEmisionBaseExternalService"
+  type="tns:IEmisionBaseExternalService">
+    <wsp:PolicyReference URI="#WSHttpBinding_IEmisionBaseExternalService_policy" />
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="emitirCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirStringCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirStringCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDToBase64">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDToBase64"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDPorIdTransaccion">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDPorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDPorIdTransaccion">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDPorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFDString">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF_EdoCta">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF_EdoCta"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML_EdoCta">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML_EdoCta"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerIdComprobantePorIdTransaccion">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerIdComprobantePorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="generarPDF">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/generarPDF"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDatosCFDFA">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerDatosCFDFA"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCorreoReceptor">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerCorreoReceptor"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="enviarCorreoCFD">
+      <soap12:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/enviarCorreoCFD"
+      style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap12:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IEmisionBaseExternalService"
+  type="tns:IEmisionBaseExternalService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="emitirCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="EmisionRapidaCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/EmisionRapidaCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirStringCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirStringCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="emitirCFDToBase64">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/emitirCFDToBase64"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarCFDPorIdTransaccion">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/cancelarCFDPorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reemitirCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reemitirCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarCFDPorIdTransaccion">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarCFDPorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="reenviarCFDString">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/reenviarCFDString"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarPDF_EdoCta">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarPDF_EdoCta"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="consultarXML_EdoCta">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/consultarXML_EdoCta"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerIdComprobantePorIdTransaccion">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerIdComprobantePorIdTransaccion"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="generarPDF">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/generarPDF"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDatosCFDFA">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerDatosCFDFA"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCorreoReceptor">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/obtenerCorreoReceptor"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="enviarCorreoCFD">
+      <soap:operation soapAction="http://namespace.pegasotecnologia.com/SCFD/IEmisionBaseExternalService/enviarCorreoCFD"
+      style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="WCFServiceFaultFault">
+        <soap:fault name="WCFServiceFaultFault" use="literal" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  
+    <wsdl:service name="EmisionBaseExternalService">
+    <!--<wsdl:port name="WSHttpBinding_IEmisionBaseExternalService"
+    binding="tns:WSHttpBinding_IEmisionBaseExternalService">
+      <soap12:address location="http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap12Text" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>
+          http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap12Text</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+    <wsdl:port name="WSHttpBinding_IEmisionBaseExternalService1"
+    binding="tns:WSHttpBinding_IEmisionBaseExternalService1">
+      <soap12:address location="http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap12Mtom" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>
+          http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap12Mtom</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>-->
+    <wsdl:port name="BasicHttpBinding_IEmisionBaseExternalService"
+    binding="tns:BasicHttpBinding_IEmisionBaseExternalService">
+      <soap:address location="http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap11Text" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IEmisionBaseExternalService1"
+    binding="tns:BasicHttpBinding_IEmisionBaseExternalService1">
+      <soap:address location="http://www.pegasotecnologiacfdi.net/IamsaEmisionGatewayQA/ServiceGateway.svc/Soap11Mtom" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

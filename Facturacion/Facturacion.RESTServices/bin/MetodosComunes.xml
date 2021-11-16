@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MetodosComunes</name>
+    </assembly>
+    <members>
+        <member name="M:MetodosComunes.AddressBookSection.#ctor(System.Object)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="webConfigSection"></param>
+        </member>
+        <member name="M:MetodosComunes.AddressBookSection.GetMailsAdressByGroup(System.String)">
+            <summary>
+            Obtiene correos y tipo de emisor por nombre de grupo 
+            </summary>
+            <param name="group"></param>
+            <returns>Dictionary{email,MailContactsGroupConfigElement}</returns>
+        </member>
+        <member name="T:MetodosComunes.ClasesAbstractas.XmlElementTag">
+            <summary>
+            Clase base que representa un elemento(clase)con atributos (propiedades)
+            Developed By Carlos Mancilla manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.ClasesAbstractas.XmlElementTag.GetXmlElement(System.Type,System.Object)">
+            <summary>
+            Obtiene el xml de la clase hija
+            </summary>
+            <param name="clase">se manda el tipo de la clase</param>
+            <param name="instancia">se manda el obj que representa la instancia</param>
+            <returns></returns>
+        </member>
+        <member name="T:MetodosComunes.FnComunes">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.CadenaConexionToDictionary(System.String,System.Nullable{System.Boolean})">
+            <summary>
+            Convierte una cadena tipo de conexion en un diccionario 
+            </summary>
+            <param name="cadena">Cadena a convertir</param>
+            <param name="KeyMayusculas">True las KEY's del diccionario seran convertidas a Mayusculas. False a minusculas. Null Se deja tal y como estan</param>
+            <returns>Un diccionario(string,string)</returns>
+            <example>
+            Ejemplo de cadena "user=cmancilla;passwd=12345678;port=21;host=172.16.2.41;remoteDirectory=PROGUB_Web/; localdirectory=~/Files/Temporal"
+            Si en el valor se necesita poner "=" se tendra que poner doble "=="
+            </example>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.CadenaConexionToDictionary(System.String,System.Nullable{System.Boolean},System.Char)">
+            <summary>
+            Convierte una cadena de conexion en un diccionario 
+            </summary>
+            <param name="cadena">Cadena a convertir</param>
+            <param name="KeyMayusculas">True las KEY's del diccionario seran convertidas a Mayusculas. False a minusculas. Null Se deja tal y como estan</param>
+            <param name="separador">Caracter separador. Por default es ';' </param>
+            <returns>Un diccionario(string,string)</returns>
+            <example>
+            Ejemplo de cadena "user=cmancilla;passwd=12345678;port=21;host=172.16.2.41;remoteDirectory=PROGUB_Web/; localdirectory=~/Files/Temporal"
+            /// Si en el valor se necesita poner "=" se tendra que poner doble "==" y nunca despues de "=". NO ->  key===hola    Si--> key=pi==3.1416
+            </example>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.GetKeysFromCadenaConexion(System.String,System.Char)">
+             <summary>
+             Obtiene las una las Key's de la cadena de conexion
+             </summary>
+             <param name="cadena">Cadena conexion</param>
+             <param name="separador">Caracter separador de cada variable o parametro asignado (KEY=Valor). Por defaul es ';'</param>
+            <returns>Lista de strings </returns>
+            <example>
+             Ejemplo de cadena "user=cmancilla;passwd=12345678;port=21;host=172.16.2.41;remoteDirectory=PROGUB_Web/; localdirectory=~/Files/Temporal"
+             /// Si en el valor se necesita poner "=" se tendra que poner doble "==" y nunca despues de "=". NO ->  key===hola    Si--> key=pi==3.1416
+            </example>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.GetKeysFromCadenaConexion(System.String)">
+             <summary>
+             Obtiene las una las Key's de la cadena de conexion
+             </summary>
+             <param name="cadena">Cadena conexion</param>       
+            <returns>Lista de strings </returns>
+            <example>
+             Ejemplo de cadena "user=cmancilla;passwd=12345678;port=21;host=172.16.2.41;remoteDirectory=PROGUB_Web/; localdirectory=~/Files/Temporal"
+             /// Si en el valor se necesita poner "=" se tendra que poner doble "==" y nunca despues de "=". NO ->  key===hola    Si--> key=pi==3.1416
+            </example>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.CreaEstructuraDataTable(System.Collections.Generic.List{System.Collections.Generic.Dictionary{System.String,System.String}},System.String)">
+            <summary>
+            Crea un objeto datatable con sus respectivas columnas
+            </summary>
+            <param name="ConfColumnas">Configuracion de Columnas en texto plano. 
+            Ejemplo: ConfColumnas[0][nombre]=NombreColumna;
+            ConfColumnas[0]["tipodato"]=System.String</param>
+            <param name="nombreDataTable">Nombre Objeto DataTable</param>
+            <returns>Un objeto Datatable con culumnas dadas en confColumnas</returns>
+        </member>
+        <member name="M:MetodosComunes.FnComunes.CreaEstructuraDataTable(System.String[],System.Type[],System.String)">
+            <summary>
+            Crea un objeto datatable con sus respectivas columnas
+            </summary>
+            <param name="nombreColumnas">Array string que contiene el "ORDEN" y nombre de las columnas del datatable</param>
+            <param name="tipoDatoColumnas">Array Type que contiene el "ORDEN" y el tipo de dato de las columnas</param>
+            <param name="nombreDataTable">Nombre del DataTable</param>
+            <example> CrearEstructuraDataTable(new string[]{Nombre,Edad},new Type[]{ typeof(string),typeof(int)]) Se crea un DT con 2 columnas una "Nombre-String" y otra "Edad-Int",</example>
+            <returns></returns>
+        </member>
+        <member name="T:MetodosComunes.FnGenericas`1">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.MailSection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.MailSection.#ctor(System.Object)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="webConfigSection"></param>
+        </member>
+        <member name="T:MetodosComunes.TypeAddressee">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.FnSendMail">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.FnSendMail.User">
+            <summary>
+            Usuario cuenta de Correo
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.FnSendMail.Password">
+            <summary>
+            Password del user de la cuenta de correo
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.FnSendMail.Host">
+            <summary>
+            Servidor correo
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.FnSendMail.Puerto">
+            <summary>
+            Puerto del server del correo
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.FnSendMail.SendMail(System.Collections.Generic.List{MetodosComunes.Entity.EmailUser},System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="nameEmisor">Nombre quien envia</param>
+            <param name="texto">Mensaje correo</param>
+            <param name="titulo">Titulo correo</param>
+            <param name="correos">Un conjunto de correos agrupados por grupo</param>
+        </member>
+        <member name="M:MetodosComunes.FnSendMail.MailAdressContactsWebConfigElementToMailAddress(System.Collections.Generic.List{MetodosComunes.Entity.EmailUser})">
+            <summary>
+            
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MetodosComunes.WebConfig.StoredProceduresSection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.WebControls.FnGridView">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnGridView.Limpiar(System.Web.UI.WebControls.GridView)">
+            <summary>
+            Limpia las filas de un Control GridView
+            </summary>
+            <param name="Ctrl">
+            Control GridView a limpiar
+            </param>
+        </member>
+        <member name="T:MetodosComunes.WebControls.FnDropDownList">
+            <summary>
+            Metodos Comunes para el WebControl DropDownList
+            
+            
+            
+            
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnDropDownList.SelectItem(System.Web.UI.WebControls.DropDownList,System.Data.DataTable,System.String)">
+            <summary>
+            Seleccionar un Item de un DropDownList, por medio de su Value.
+            </summary>
+            <param name="ControlDropDownList">El Control</param>
+            <param name="Datos">De los datos buscar la columna que queremos seleccionar</param>
+            <param name="Columna">El nombre de la columna que contiene el Value.</param>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnDropDownList.CargarDatos(System.Web.UI.WebControls.DropDownList,System.String,System.String,System.Data.DataTable)">
+            <summary>
+            Carga datos a un DropDownList con el objeto DataTable
+            </summary>
+             <param name='Ctrl'>
+            El control DropDownList a cargar
+            </param>
+             <param name='Texto'>
+            Nombre de la columna del datatable el cual tomara como descripcion de los item's que se mostrara en el DropDownList
+            </param>
+             <param name='Valor'>
+            Nombre de la columna del datatable el cual tomara como valores de los item's del DropDownList
+            </param>
+             <param name='Datos'>
+            El DatatAble con el que se cargara el DropDownList
+            </param>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnDropDownList.CargarDatos(System.Web.UI.WebControls.DropDownList,System.String,System.String,System.Data.DataTable,System.Web.UI.WebControls.ListItem)">
+            <summary>
+            Carga datos a un DropDownList con el objeto DataTable
+            </summary>
+             <param name='Ctrl'>
+            El control DropDownList a cargar
+            </param>
+             <param name='Texto'>
+            Nombre de la columna del datatable el cual tomara como descripcion de los item's que se mostrara en el DropDownList
+            </param>
+             <param name='Valor'>
+            Nombre de la columna del datatable el cual tomara como valores de los item's del DropDownList
+            </param>
+             <param name='Datos'>
+            El DatatAble con el que se cargara el DropDownList
+            </param>
+            <param name="itemCero">
+            Primer item mostrado y seleccionado por el DropDownList el cual tiene como valor "0", este aparece siempre y cuando contenga mas de un dato el Ctrl
+            </param>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnDropDownList.Limpiar(System.Web.UI.WebControls.DropDownList)">
+            <summary>
+            Limpia datos DropDownList
+            </summary>
+            <param name="ctrl">
+            DropDownList a limpiar
+            </param>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnDropDownList.CambiarItemSeleccionado(System.Web.UI.WebControls.DropDownList,System.String)">
+            <summary>
+            Selecciona un item del combo pero deseleccionando el anterior
+            </summary>
+            <param name="Ctrl">Control dropdownlist</param>
+            <param name="valor">Valor del nuevo item a seleccionar</param>
+        </member>
+        <member name="T:MetodosComunes.WebControls.FnRadioButtonList">
+            <summary>
+            Metodos Comunes para el WebControl DropDownList
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.WebControls.FnRadioButtonList.CargarDatos(System.Web.UI.WebControls.RadioButtonList,System.String,System.String,System.Data.DataTable)">
+            <summary>
+            Carga datos a un RadioButtonList con el objeto DataTable
+            </summary>
+            <param name="Ctrl">El control RadioButtonList a cargar</param>
+            <param name="Texto">Nombre de la columna del datatable el cual tomara como descripcion de los item's que se mostrara en el RadioButtonList</param>
+            <param name="Valor">Nombre de la columna del datatable el cual tomara como valores de los item's del RadioButtonList</param>
+            <param name="Datos">El DatatAble con el que se cargara el RadioButtonList</param>
+        </member>
+        <member name="T:MetodosComunes.Reporting.FnReporting">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="M:MetodosComunes.Reporting.FnReporting.GenerarReporte(Microsoft.Reporting.WebForms.ReportViewer,System.String,System.Data.DataTable[],System.Collections.Generic.List{Microsoft.Reporting.WebForms.ReportParameter},System.Boolean)">
+            <summary>
+            Genera/muestra el reporte en el Ctrl ReportViewver
+            </summary>
+            <param name="ctrlReport">Control ReportViewver donde se mostrara el reporte</param>
+            <param name="rutaReporte">Ruta fisica o virtual donde se encuentra el reporte (archivo .rdlc)</param>
+            <param name="dtds">Datos del reporte. IMPORTANTE: El datatable debe tener el nombre del datasource del archivo .rdlc</param>
+            <param name="parametrosReporte">Parametros que utiliza el reporte (archivo .rdlc)</param>
+            <param name="enableHyperlinks">Permite renderear acciones de hipervinculo </param>
+        </member>
+        <member name="M:MetodosComunes.Reporting.FnReporting.GenerarReporte(Microsoft.Reporting.WebForms.ReportViewer,System.String,System.Data.DataTable[],System.Collections.Generic.List{Microsoft.Reporting.WebForms.ReportParameter})">
+            <summary>
+            Genera/muestra el reporte en el Ctrl ReportViewver
+            </summary>
+            <param name="ctrlReport">Control ReportViewver donde se mostrara el reporte</param>
+            <param name="rutaReporte">Ruta fisica o virtual donde se encuentra el reporte (archivo .rdlc)</param>
+            <param name="dtds">Datos del reporte. IMPORTANTE: El datatable debe tener el nombre del datasource del archivo .rdlc</param>
+            <param name="parametrosReporte">Parametros que utiliza el reporte (archivo .rdlc)</param>
+        </member>
+        <member name="M:MetodosComunes.Reporting.FnReporting.GenerarReporte(Microsoft.Reporting.WebForms.ReportViewer,System.String,System.Data.DataTable[])">
+            <summary>
+            Genera/muestra el reporte en el Ctrl ReportViewver
+            </summary>
+            <param name="ctrlReport">Control ReportViewver donde se mostrara el reporte</param>
+            <param name="rutaReporte">Ruta fisica o virtual donde se encuentra el reporte (archivo .rdlc)</param>
+            <param name="dtds">Datos del reporte. IMPORTANTE: El datatable debe tener el nombre del datasource del archivo .rdlc</param>        
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.MailAdressContactsWebConfigCollection">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.MailAdressContactsWebConfigElement">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailAdressContactsWebConfigElement.Mail">
+             <summary>
+            Correo
+             </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailAdressContactsWebConfigElement.Name">
+             <summary>
+            Nombre del Contacto
+             </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailAdressContactsWebConfigElement.mailContactsGroupConfigCollection">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailContactsGroupConfigElement.Group">
+             <summary>
+            Grupo que pertenece el contacto
+             </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.Id">
+             <summary>
+            ID Configuracion
+             </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.User">
+            <summary>
+            Usuario del SMTP 
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.Password">
+            <summary>
+            Password SMTP
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.Puerto">
+            <summary>
+            Puerto SMTP
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.From">
+            <summary>
+            Direccion de salida
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MailWebConfigElement.Server">
+            <summary>
+            Server (SMTP)
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigCollection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigElement">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigElement.Id">
+            <summary>
+            Id del Grupo de Stored Procedures
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigElement.ConnectionStringKey">
+            <summary>
+            Key de a cadena de conexion de todos los elementos grupo
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigElement.ConnectionTimeOut">
+            <summary>
+            Tiempo de conexion de todos los elementos del Grupo
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.GroupStoredProcedureWebConfigElement.StoredProcedures">
+            <summary>
+            Colleccion de elemntos ConfigurationElement
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.MetodosComunesWebConfigSection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MetodosComunesWebConfigSection.storedProcedureSection">
+            <summary>
+            Obtiene Coleccion de GroupStoredProcedure
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MetodosComunesWebConfigSection.mailSection">
+            <summary>
+            Obtiene Coleccion de GroupStoredProcedure
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.MetodosComunesWebConfigSection.mailAdresssCollection">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.ParameterConfigurationCollection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.ParameterName">
+            <summary>
+            Nombre del parametro del StoredProcedure
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.Direction">
+             <summary>
+             Especifica el tipo de un parámetro del Stored Procedure
+             </summary>        
+             <remarks>
+             Input: Se trata de un parámetro de entrada. 
+            InputOutput: El parámetro puede ser de entrada o de salida. 
+            Output: Se trata de un parámetro de salida. 
+            ReturnValue: El parámetro representa un valor devuelto de una operación como un procedimiento almacenado, una función integrada o una función definida por el usuario. 
+             </remarks>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.SqlType">
+            <summary>
+            Tipo de dato al que pertenece el parametro
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.IsNullable">
+            <summary>
+            El parametro puede recibir valores nulos
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.Value">
+            <summary>
+            Valor del parametro
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.ParameterWebConfigElement.Sort">
+            <summary>
+            Propiedad Numerica para el ordenamiento de elementos cuando se realize una busqueda
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.StoredProcedureWebConfigCollection">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="T:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement">
+            <summary>
+            Class by Carlos Mancilla
+            manspsy@gmail.com
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.Id">
+            <summary>
+            Id del elemneto StoredProcedurWebConfigElement
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.NameSP">
+            <summary>
+            Nombre del Stored Procedure
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.ConnectionStringKey">
+            <summary>
+            Key de la cadena de conexion
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.ConnectionTimeOut">
+            <summary>
+            Tiempo en segundos que durara la conexion de la cadena de conexion
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.Sort">
+            <summary>
+            Propiedad Numerica para el ordenamiento de elementos cuando se realize una busqueda
+            </summary>
+        </member>
+        <member name="P:MetodosComunes.ToolsFnWebConfig.StoredProcedurWebConfigElement.Parameters">
+            <summary>
+            Collecion de elementos ParameterWebConfigElement
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,525 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\csc.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Comun.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\ClosedXML.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\zxing.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\ClosedXML.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\zxing.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\zxing.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Comun.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\zxing.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Comun.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.BLL.dll.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\System.Data.SQLite.dll.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\zxing.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\zxing.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojAssemblyReference.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\obj\Debug\FacturacionOnLine.csproj.CoreCompileInputs.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\obj\Debug\FacturacionOnLine.csproj.CopyComplete
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURACION\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\RestSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\RestSharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\NLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FacturacionOnLine\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\FacturacionOnLine.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Ionic.Zip.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Data.SQLite.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Helpers.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Mvc.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FacturacionOnLine\obj\Debug\FacturacionOnLine.pdb

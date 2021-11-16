@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+<link href="../css/estilos.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="siteWrapper">
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="480" height="100"><a href="#"><span class="logo"><img src="../Imagenes/vivaaerobus-logo (1).png" alt="Logo" width="480" height="100" border="0" /></span></a></td>
+    <td width="480" height="100" align="right" valign="top">
+    <div class="absoluteTop">
+    <div class="headerBookmarks">
+            <a class="socialBookmark markFacebook" target="_blank" href="https://www.facebook.com/VivaAerobus"></a>
+            <a class="socialBookmark markTwitter" target="_blank" href="https://twitter.com/vivaaerobus"></a>
+    </div>
+
+
+
+                </div>
+        
+    </td>
+  </tr>
+  <tr>
+    <td height="45" colspan="2" align="right">
+   	  <a href="#" class="menu_nav">Factura Electrónica</a>
+      <a href="#" class="menu_nav" style="margin-right:15px;">Reglas de Facturación</a></td>
+    </tr>
+  </table>
+  <table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="724" height="100" valign="bottom" class="titulo_pagina">
+    <!-- TemplateBeginEditable name="titulo_pagina" -->
+    	Facturación Electrónica
+	<!-- TemplateEndEditable --> </td>
+    <td width="236" height="100" align="right" valign="bottom">
+        <table width="178" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px; margin-right:15px">
+          <tr>
+            <td width="90" class="descargas_guia">Descargas - </td>
+            <td width="27" align="right">
+            <a href="#" class="tooltip">
+    <img src="../Imagenes/guia_facturacion.jpg" width="17" height="16" border="0" />
+    <span>
+        <img class="callout" src="Imagenes/callout_black.gif" />
+        Guía para proceso de Facturación.
+    </span>
+</a>
+            
+            </td>
+            <td width="27" align="right">
+            <a href="#" class="tooltip">
+            	<img src="../Imagenes/guia_actualizacion.jpg" width="17" height="16" border="0" />
+                <span>
+                <img class="callout" src="Imagenes/callout_black.gif" />
+                Guía para Actualizar Datos de Facturación.
+    </span>
+            </a>
+            </td>
+            <td width="34" align="right">
+                <a href="#" class="tooltip">
+                	<img src="../Imagenes/guia_reenvio.jpg" width="24" height="16" border="0" />
+                    <span>
+                    <img class="callout" src="Imagenes/callout_black.gif" />
+                    Guía para Reenvío de Facturas.
+                    </span>
+                </a>
+            </td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+<div class="separacion_20"></div>
+<div class="contenido">
+	<!-- TemplateBeginEditable name="contenido" -->
+    contenido
+    <!-- TemplateEndEditable -->
+	
+</div>
+<div class="footerBelow">
+        <div class="footerLinks">
+
+                        <a href="/mx" title="VivaAerobus, La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, ofertas, promociones y descuentos.">VivaAerobus</a>
+                        <a href="/en/promotions/promotions-flights" title="VivaAerobus, La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, ofertas, promociones y descuentos.">La Aerol&#237;nea de bajo costo de M&#233;xico. Los mejores precios, ofertas, promociones y descuentos.</a>
+
+        </div>
+
+
+                <a href="http://www.ezy.se/en" target="_blank" style="display: inline-block; float: right">
+                    <div class="ezy" title="RRTVIVWS02">
+                        <span>Powered by</span>
+                        <div class="ezyLogo"></div>
+                    </div>
+                </a>
+                <div class="clear"></div>
+            </div>
+            <table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+</div>
+</body>
+</html>

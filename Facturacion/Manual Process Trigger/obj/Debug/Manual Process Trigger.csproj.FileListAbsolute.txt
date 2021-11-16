@@ -1,0 +1,367 @@
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Comun.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\zxing.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\zxing.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\D4N13L\VS_2015\VBFacturacion.git\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\Users\miguel.santes\Documents\PROYECTO FACTURA\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Manual Process Trigger.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\ConfigSectionsProcess.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Proceso.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\MansLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\bin\Debug\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Main.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual_Process_Trigger.Properties.Resources.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.csproj.GenerateResource.Cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\Manual Process Trigger\obj\Debug\Manual Process Trigger.pdb

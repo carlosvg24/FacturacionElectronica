@@ -1,0 +1,393 @@
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\BouncyCastle.Crypto.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Common.Logging.Core.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\itextsharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Helpers.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\System.Web.Mvc.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.App_GlobalResources.Textos.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.csproj.GenerateResource.Cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.PortalWeb\obj\Debug\VBFactPaquetes.PortalWeb.pdb

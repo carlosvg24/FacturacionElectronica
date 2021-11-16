@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7834D0A6-0177-4779-88FD-87C2EA76497A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Facturacion.DAL</RootNamespace>
+    <AssemblyName>Facturacion.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetodosComunes, Version=1.2.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Facturacion.BLL\dll\MetodosComunes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Caching">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception">
+      <HintPath>..\Facturacion.BLL\dll\Microsoft.Practices.Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDFacturacion\DALAgentesCat.cs" />
+    <Compile Include="BDFacturacion\DALBinCat.cs" />
+    <Compile Include="BDFacturacion\DALCfdirelacionadosDet.cs" />
+    <Compile Include="BDFacturacion\DALClientesnacCat.cs" />
+    <Compile Include="BDFacturacion\DALClientesportalCat.cs" />
+    <Compile Include="BDFacturacion\DALClientestipoportalCat.cs" />
+    <Compile Include="BDFacturacion\DALConceptosCat.cs" />
+    <Compile Include="BDFacturacion\DALCpSatCat.cs" />
+    <Compile Include="BDFacturacion\DALDistribucionpagos.cs" />
+    <Compile Include="BDFacturacion\DALEmpresaCat.cs" />
+    <Compile Include="BDFacturacion\DALEntidadesfedSatCat.cs" />
+    <Compile Include="BDFacturacion\DALFacturasCab.cs" />
+    <Compile Include="BDFacturacion\DALFacturascargosDet.cs" />
+    <Compile Include="BDFacturacion\DALFacturascfdiDet.cs" />
+    <Compile Include="BDFacturacion\DALFacturascomplpagdoctoRel.cs" />
+    <Compile Include="BDFacturacion\DALFacturascomplpagoReg.cs" />
+    <Compile Include="BDFacturacion\DALFacturasDet.cs" />
+    <Compile Include="BDFacturacion\DALFacturasivaDet.cs" />
+    <Compile Include="BDFacturacion\DALFacturasppdReg.cs" />
+    <Compile Include="BDFacturacion\DALFeeCat.cs" />
+    <Compile Include="BDFacturacion\DALFoliosfiscalesCnf.cs" />
+    <Compile Include="BDFacturacion\DALFormapagoCat.cs" />
+    <Compile Include="BDFacturacion\DALGencatalogosCat.cs" />
+    <Compile Include="BDFacturacion\DALGendescripcionesCat.cs" />
+    <Compile Include="BDFacturacion\DALGlobalcargosaeroDet.cs" />
+    <Compile Include="BDFacturacion\DALGlobalpagosnoenviadosReg.cs" />
+    <Compile Include="BDFacturacion\DALGlobalticketsDet.cs" />
+    <Compile Include="BDFacturacion\DALHotel.cs" />
+    <Compile Include="BDFacturacion\DALIvaCat.cs" />
+    <Compile Include="BDFacturacion\DALIvaporcpCat.cs" />
+    <Compile Include="BDFacturacion\DALLocationCat.cs" />
+    <Compile Include="BDFacturacion\DALLog.cs" />
+    <Compile Include="BDFacturacion\DALNotascreditoCab.cs" />
+    <Compile Include="BDFacturacion\DALNotascreditocargosDet.cs" />
+    <Compile Include="BDFacturacion\DALNotascreditocfdiDet.cs" />
+    <Compile Include="BDFacturacion\DALNotascreditoDet.cs" />
+    <Compile Include="BDFacturacion\DALNotascreditoivaDet.cs" />
+    <Compile Include="BDFacturacion\DALOpcionesmenuCat.cs" />
+    <Compile Include="BDFacturacion\DALOrganppdCat.cs" />
+    <Compile Include="BDFacturacion\DALOtasCat.cs" />
+    <Compile Include="BDFacturacion\DALPagosCab.cs" />
+    <Compile Include="BDFacturacion\DALPagosDet.cs" />
+    <Compile Include="BDFacturacion\DALPagosomitidosglobalporiva.cs" />
+    <Compile Include="BDFacturacion\DALParametrosCnf.cs" />
+    <Compile Include="BDFacturacion\DALProrrogafactReg.cs" />
+    <Compile Include="BDFacturacion\DALReasignaexpedporiata.cs" />
+    <Compile Include="BDFacturacion\DALReservaCab.cs" />
+    <Compile Include="BDFacturacion\DALReservaDet.cs" />
+    <Compile Include="BDFacturacion\DALReservaHis.cs" />
+    <Compile Include="BDFacturacion\DALRolesCat.cs" />
+    <Compile Include="BDFacturacion\DALRolesopcionesCnf.cs" />
+    <Compile Include="BDFacturacion\DALSolicitudesfacCab.cs" />
+    <Compile Include="BDFacturacion\DALSolicitudesfacDet.cs" />
+    <Compile Include="BDFacturacion\DALUsuariosCat.cs" />
+    <Compile Include="BDFacturacion\DALUsuariosrolesCnf.cs" />
+    <Compile Include="BDFacturacion\DALVuelosCab.cs" />
+    <Compile Include="BDFacturacion\DALXmlFtpReg.cs" />
+    <Compile Include="BDFacturacion\DALXmlPegaso.cs" />
+    <Compile Include="FacturaGlobal\DALFacturaGlobal.cs" />
+    <Compile Include="IAccesoDatos.cs" />
+    <Compile Include="NotaCredito\DALNotaCredito.cs" />
+    <Compile Include="Portal\Administracion\DALOpcionesmenuCat.cs" />
+    <Compile Include="Portal\AuthenticationController\AuthenticationControllerDAL.cs" />
+    <Compile Include="Portal\Seguridad\DALLogin.cs" />
+    <Compile Include="Portal\Seguridad\DALSeguridad.cs" />
+    <Compile Include="ProcesoFacturacion\DALBitacoraErrores.cs" />
+    <Compile Include="ProcesoFacturacion\DALComplementoPago.cs" />
+    <Compile Include="ProcesoFacturacion\DALDistribucionPagos.cs" />
+    <Compile Include="ProcesoFacturacion\DALFacturacion.cs" />
+    <Compile Include="ProcesoFacturacion\DALFacturaGlobal33.cs" />
+    <Compile Include="ProcesoFacturacion\DALNotasCredito.cs" />
+    <Compile Include="ProcesoFacturacion\DALProcesarPagos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comun\Comun.csproj">
+      <Project>{D83ED321-0832-4EEC-A033-0F43CF593E7A}</Project>
+      <Name>Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facturacion.ENT\Facturacion.ENT.csproj">
+      <Project>{0e699a63-ba30-49ab-bba9-0394509866aa}</Project>
+      <Name>Facturacion.ENT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Portal\Consultas\" />
+    <Folder Include="Portal\Facturacion\" />
+    <Folder Include="Portal\ProcesosViva\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

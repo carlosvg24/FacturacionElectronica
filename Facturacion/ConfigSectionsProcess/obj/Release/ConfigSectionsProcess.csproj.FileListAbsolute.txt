@@ -1,0 +1,5 @@
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\bin\Release\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\bin\Release\ConfigSectionsProcess.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Release\ConfigSectionsProcess.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Release\ConfigSectionsProcess.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\ConfigSectionsProcess\obj\Release\ConfigSectionsProcess.pdb

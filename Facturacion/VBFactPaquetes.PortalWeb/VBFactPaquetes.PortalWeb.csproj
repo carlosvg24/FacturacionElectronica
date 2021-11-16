@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D3B46D28-4CEE-467E-8B98-E43605116527}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VBFactPaquetes.PortalWeb</RootNamespace>
+    <AssemblyName>VBFactPaquetes.PortalWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\..\Facturación_RHS\packages\Portable.BouncyCastle.1.8.9\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Common.Logging, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\..\Facturación_RHS\packages\Common.Logging.3.4.1\lib\net40\Common.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\..\Facturación_RHS\packages\Common.Logging.Core.3.4.1\lib\net40\Common.Logging.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.4.369, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\ICSharpCode.SharpZipLib.dll.0.85.4.369\lib\net20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\..\Facturación_RHS\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.7.9\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.11.7\lib\net452\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="assets\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="assets\bootstrap\css\bootstrap-modal-3.4.css" />
+    <Content Include="assets\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="assets\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="assets\bootstrap\css\bootstrap.css" />
+    <Content Include="assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assets\bootstrap\js\bootstrap-datepicker.js" />
+    <Content Include="assets\bootstrap\js\bootstrap-select.js" />
+    <Content Include="assets\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="assets\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="assets\bootstrap\js\bootstrap.js" />
+    <Content Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\bootstrap\js\jquery-migrate-1.4.1.min.js" />
+    <Content Include="assets\CSS\bootstrap-datepicker.css" />
+    <Content Include="assets\CSS\bootstrap-select.css" />
+    <Content Include="assets\CSS\cerulean.css" />
+    <Content Include="assets\CSS\estilos.css" />
+    <Content Include="assets\CSS\old_cerulean.css" />
+    <Content Include="assets\CSS\old_estilos.css" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="assets\CSS\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="assets\CSS\themes\base\jquery-ui.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.accordion.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.all.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.base.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.button.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.core.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.dialog.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.resizable.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.selectable.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.slider.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.tabs.css" />
+    <Content Include="assets\CSS\themes\base\jquery.ui.theme.css" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="assets\CSS\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="assets\CSS\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="assets\CSS\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="assets\Fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\Images\accent.png" />
+    <Content Include="assets\Images\Antes.png" />
+    <Content Include="assets\Images\application-pdf.png" />
+    <Content Include="assets\Images\avance_1_1.png" />
+    <Content Include="assets\Images\avance_2_1.png" />
+    <Content Include="assets\Images\avance_2_2.png" />
+    <Content Include="assets\Images\avance_3_1.png" />
+    <Content Include="assets\Images\avance_3_2.png" />
+    <Content Include="assets\Images\Avatar-Icon.jpg" />
+    <Content Include="assets\Images\avion_.png" />
+    <Content Include="assets\Images\background-rebranded.png" />
+    <Content Include="assets\Images\boton_buscar.png" />
+    <Content Include="assets\Images\boton_cerrar.png" />
+    <Content Include="assets\Images\boton_continuar.png" />
+    <Content Include="assets\Images\boton_facturar.png" />
+    <Content Include="assets\Images\boton_regresar.png" />
+    <Content Include="assets\Images\bullet.png" />
+    <Content Include="assets\Images\callout_black.gif" />
+    <Content Include="assets\Images\css-tooltip-gradient-bg.png" />
+    <Content Include="assets\Images\DesglosePago.png" />
+    <Content Include="assets\Images\Despues.png" />
+    <Content Include="assets\Images\ejemplos_codigo.png" />
+    <Content Include="assets\Images\EnviarEmail_1.jpg" />
+    <Content Include="assets\Images\envio.png" />
+    <Content Include="assets\Images\factura_hecha.png" />
+    <Content Include="assets\Images\factura_no_hecha.png" />
+    <Content Include="assets\Images\fondo_stage.jpg" />
+    <Content Include="assets\Images\guia_actualizacion.jpg" />
+    <Content Include="assets\Images\guia_facturacion.jpg" />
+    <Content Include="assets\Images\guia_reenvio.jpg" />
+    <Content Include="assets\Images\heroAccent.png" />
+    <Content Include="assets\Images\icono_face.png" />
+    <Content Include="assets\Images\icono_info_1.png" />
+    <Content Include="assets\Images\icono_info_2.png" />
+    <Content Include="assets\Images\icono_twitter.png" />
+    <Content Include="assets\Images\img_dialogo_alerta.png" />
+    <Content Include="assets\Images\img_dialogo_error.png" />
+    <Content Include="assets\Images\img_dialogo_informacion.png" />
+    <Content Include="assets\Images\img_dialogo_pregunta.png" />
+    <Content Include="assets\Images\loader.gif" />
+    <Content Include="assets\Images\loader_.gif" />
+    <Content Include="assets\Images\Loading.gif" />
+    <Content Include="assets\Images\Loading1.gif" />
+    <Content Include="assets\Images\logo.png" />
+    <Content Include="assets\Images\mantenimiento5.png" />
+    <Content Include="assets\Images\manttoSinHorario.png" />
+    <Content Include="assets\Images\orderedList0.png" />
+    <Content Include="assets\Images\orderedList1.png" />
+    <Content Include="assets\Images\orderedList2.png" />
+    <Content Include="assets\Images\orderedList3.png" />
+    <Content Include="assets\Images\orderedList4.png" />
+    <Content Include="assets\Images\orderedList5.png" />
+    <Content Include="assets\Images\orderedList6.png" />
+    <Content Include="assets\Images\orderedList7.png" />
+    <Content Include="assets\Images\orderedList8.png" />
+    <Content Include="assets\Images\orderedList9.png" />
+    <Content Include="assets\Images\pleca.jpg" />
+    <Content Include="assets\Images\remate_1.jpg" />
+    <Content Include="assets\Images\remate_2.jpg" />
+    <Content Include="assets\Images\sprite3.png" />
+    <Content Include="assets\Images\vivaaerobus-logo.png" />
+    <Content Include="assets\Images\warning.png" />
+    <Content Include="assets\Images\xml.png" />
+    <Content Include="assets\Images\_loader.gif" />
+    <Content Include="assets\Scripts\bootstrap-datepicker.js" />
+    <Content Include="assets\Scripts\bootstrap-select.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ar.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.az.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.bg.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.bs.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ca.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.cs.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.cy.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.da.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.de.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.el.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.en-AU.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.en-GB.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.eo.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.es.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.et.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.eu.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.fa.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.fi.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.fo.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.fr-CH.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.fr.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.gl.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.he.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.hr.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.hu.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.hy.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.id.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.is.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.it-CH.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.it.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ja.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ka.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.kh.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.kk.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ko.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.kr.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.lt.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.lv.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.me.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.mk.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.mn.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ms.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.nb.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.nl-BE.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.nl.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.no.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.pl.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.pt-BR.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.pt.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ro.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.rs-latin.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.rs.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.ru.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sk.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sl.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sq.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sr-latin.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sr.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sv.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.sw.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.th.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.tr.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.uk.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.vi.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.zh-CN.min.js" />
+    <Content Include="assets\Scripts\datepickerlang\bootstrap-datepicker.zh-TW.min.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ar_AR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-bg_BG.js" />
+    <Content Include="assets\Scripts\i18n\defaults-cro_CRO.js" />
+    <Content Include="assets\Scripts\i18n\defaults-cs_CZ.js" />
+    <Content Include="assets\Scripts\i18n\defaults-da_DK.js" />
+    <Content Include="assets\Scripts\i18n\defaults-de_DE.js" />
+    <Content Include="assets\Scripts\i18n\defaults-en_US.js" />
+    <Content Include="assets\Scripts\i18n\defaults-es_CL.js" />
+    <Content Include="assets\Scripts\i18n\defaults-es_ES.js" />
+    <Content Include="assets\Scripts\i18n\defaults-et_EE.js" />
+    <Content Include="assets\Scripts\i18n\defaults-eu.js" />
+    <Content Include="assets\Scripts\i18n\defaults-fa_IR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-fi_FI.js" />
+    <Content Include="assets\Scripts\i18n\defaults-fr_FR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-hu_HU.js" />
+    <Content Include="assets\Scripts\i18n\defaults-id_ID.js" />
+    <Content Include="assets\Scripts\i18n\defaults-it_IT.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ja_JP.js" />
+    <Content Include="assets\Scripts\i18n\defaults-kh_KM.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ko_KR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-lt_LT.js" />
+    <Content Include="assets\Scripts\i18n\defaults-nb_NO.js" />
+    <Content Include="assets\Scripts\i18n\defaults-nl_NL.js" />
+    <Content Include="assets\Scripts\i18n\defaults-pl_PL.js" />
+    <Content Include="assets\Scripts\i18n\defaults-pt_BR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-pt_PT.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ro_RO.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ru_RU.js" />
+    <Content Include="assets\Scripts\i18n\defaults-sk_SK.js" />
+    <Content Include="assets\Scripts\i18n\defaults-sl_SI.js" />
+    <Content Include="assets\Scripts\i18n\defaults-sv_SE.js" />
+    <Content Include="assets\Scripts\i18n\defaults-tr_TR.js" />
+    <Content Include="assets\Scripts\i18n\defaults-ua_UA.js" />
+    <Content Include="assets\Scripts\i18n\defaults-vi_VN.js" />
+    <Content Include="assets\Scripts\i18n\defaults-zh_CN.js" />
+    <Content Include="assets\Scripts\i18n\defaults-zh_TW.js" />
+    <Content Include="assets\Scripts\jquery-1.12.4.min.js" />
+    <Content Include="assets\Scripts\jquery-3.0.0.min.js" />
+    <Content Include="assets\Scripts\jquery-3.2.1.min.js" />
+    <Content Include="assets\Scripts\jquery-ui.js" />
+    <Content Include="assets\Scripts\jquery.js" />
+    <Content Include="assets\Scripts\popper-1.12.9.min.js" />
+    <Content Include="assets\Scripts\scripts.js" />
+    <Content Include="assets\Scripts\sweetalert.min.js" />
+    <Content Include="assets\Site.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="assets\Scripts\bootstrap.js" />
+    <Content Include="assets\Scripts\bootstrap.min.js" />
+    <Content Include="assets\bootstrap\css\.DS_Store" />
+    <Content Include="assets\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="assets\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="assets\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="assets\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="assets\bootstrap\css\bootstrap.css.map" />
+    <Content Include="assets\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="assets\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="assets\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="assets\bootstrap\js\bootstrap.js.map" />
+    <Content Include="assets\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="assets\CSS\themes\base\diseno.dwt" />
+    <Content Include="assets\Fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\Fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\Fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="assets\Fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="assets\GuiasPDF\GUIA_ACTUALIZACION.pdf" />
+    <Content Include="assets\GuiasPDF\GUIA_REENVIO.pdf" />
+    <Content Include="assets\GuiasPDF\Guía para proceso de facturación.pdf" />
+    <None Include="assets\Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="assets\Scripts\jquery-1.10.2.js" />
+    <Content Include="assets\Scripts\jquery-1.10.2.min.js" />
+    <Content Include="assets\Scripts\modernizr-2.6.2.js" />
+    <None Include="Service References\ws_Timbrado\configuration91.svcinfo" />
+    <None Include="Service References\ws_Timbrado\configuration.svcinfo" />
+    <None Include="Service References\ws_Timbrado\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_GlobalResources\Textos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Textos.resx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\ws_Timbrado\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_MasterPage.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="assets\Scripts\jquery-1.10.2.min.map" />
+    <None Include="Service References\ws_Timbrado\pruebas.wsdl" />
+    <Content Include="Service References\ws_Timbrado\VBFactPaquetes.PortalWeb.ws_Timbrado.RespuestaTimbrado.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VBFactPaquetes.BLL\VBFactPaquetes.BLL.csproj">
+      <Project>{1de4bde4-4975-4df5-a75f-a51583105098}</Project>
+      <Name>VBFactPaquetes.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VBFactPaquetes.Comun\VBFactPaquetes.Comun.csproj">
+      <Project>{481b717d-5e33-44fd-a0ea-452d4fb98f03}</Project>
+      <Name>VBFactPaquetes.Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VBFactPaquetes.DAO\VBFactPaquetes.DAO.csproj">
+      <Project>{f234cf7d-03a0-4a5c-8142-c90b0e496551}</Project>
+      <Name>VBFactPaquetes.DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VBFactPaquetes.Model\VBFactPaquetes.Model.csproj">
+      <Project>{0e6bb399-4c5a-4895-bb93-680501ed254c}</Project>
+      <Name>VBFactPaquetes.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="App_GlobalResources\Textos.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Textos.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>Recurso</CustomToolNamespace>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ws_Timbrado\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55857</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55837/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1008 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MasterPage.cshtml";
+    //ViewBag.ReCaptcha_Key = "6Lcd3zIUAAAAAIf53dpsBtDYLzxKZtdOerXljq8p";
+    //ViewBag.ReCaptcha_Secret = "6Lcd3zIUAAAAAGxrXc1p7hkpVizTdci48K0Ex4K2";
+}
+
+@model VBFactPaquetes.Model.PantallaFacturacion.ReservaPorFacturar
+
+<script src="~/assets/Scripts/scripts.js"></script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+@using (Html.BeginForm("Index", "Home", new { Model }, FormMethod.Post, new { role = "form", id = "frm-Index" }))
+{
+    <div class="panel panel-success" id="pnlDatosReservacion" style="box-shadow: -1px 0px 8px 0px black;">
+        <div class="panel-heading" style="font-size: 12pt;">@Recurso.Textos.pnlDatosReservacionHeader</div>
+        <div class="panel-footer">@Recurso.Textos.pnlDatosReservacionFooter</div>
+        <div id="updatepanelSet" class="alert" role="alert" style="display:none; width:100%;"> </div>
+        <div class="panel-body">
+
+
+            <div class="row" style="align-items: center">
+
+                @if (Model.listPagos.Count > 0)
+                {
+                    <div class="col-md-5 col-md-offset-1">
+                        <!-- C L A V E   C O N F I R M A C I Ó N -->
+                        <div class="form-group row" style="align-items:center">
+                            @Html.Label(Recurso.Textos.PNRClave, new { @class = "col-sm-3 col-form-label" })
+                            <div class="col-sm-7">
+                                @Html.TextBoxFor(model => model.PNR, new { @class = "form-control", @required = "required", @onkeyup = "return mayus(this);", @maxlength = "8", /*@oninput = "InvalidarMsg(this);"*/ @*@onkeypress = "return check(event)"*@ @readonly = "readonly", onkeypress = "return SoloNumeroLetras(event)", @id = "PNR" })
+                                @Html.ValidationMessageFor(model => model.PNR, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                <div class="col-md-5 col-md-offset-1">
+                    <!-- C L A V E   C O N F I R M A C I Ó N -->
+                    <div class="form-group" style="align-items:center">
+                        @Html.Label(Recurso.Textos.PNRClave, new { @class = "col-sm-3 col-form-label" })
+                        <div class="col-sm-7">
+                            @Html.TextBoxFor(model => model.PNR, new { @class = "form-control", @required = "required", @onkeyup = "return mayus(this);", @maxlength = "8", @*@oninput = "InvalidarMsg(this);"*@ @*@onkeypress = "return check(event)"*@ onkeypress = "return SoloNumeroLetras(event)" })
+
+                            <!--  MANDAMOS EL TIPO DE ACCION DEL BOTON -->
+                            @Html.TextBoxFor(model => model.AccionBoton, new { @class = "form-control", @type = "hidden", @id = "BotonAccion" })
+
+
+                            @Html.ValidationMessageFor(model => model.PNR, null, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                </div>
+
+                <!-- C A P T C H A -->
+                <div class="col-xs-5 col-xs-offset-1" data-animation="fadeIn" data-animation-delay="01">
+                    <div class="g-recaptcha"
+                         data-sitekey="6LfKURIUAAAAAO50vlwWZkyK_G2ywqE52NU7YO0S"
+                         data-callback="verifyRecaptchaCallback"
+                         data-expired-callback="expiredRecaptchaCallback">
+                    </div>
+                    <input data-recaptcha="true" style="display:none">
+                    <div class="help-block with-errors"></div>
+                </div>
+
+
+
+                     <!-- B U S C A R   R E S E R V A -->
+                <div class="row">
+                    <div class="col-xs-11  col-xs-pull-1">
+                        <button type="submit" ID="btnBuscarReserva" class="btn btn-success pull-right" Width="90px" onclick="AccionBotonBuscar();" disabled="disabled"> 
+                            @Recurso.Textos.btnBuscarReserva
+                        </button>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+        <!-- P A G O S   F A C T U R A B L E S -->
+    if (Model.listPagos.Count > 0 && Model.listPagos != null)
+    {
+        <div ID="Pagos" style="display: block">
+            <div class="panel panel-success" style="box-shadow: -1px 0px 8px 0px black;">
+
+                <div class="panel-heading" id="pnlPagosHeader" style="font-size: 12pt;">Pagos Facturables</div>
+                <div class="panel-footer">
+                    Por favor marque los pagos que desea facturar.
+                </div>
+                <div id="updatepanelPagos" class="alert" role="alert" style="display:none; width:100%;"> </div>
+                <div class="panel-body">
+                    <!-- G R I D -->
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div ID="pnlContGrid" ScrollBars="Auto" Height="100%" Width="100%">
+                                <table id="tblPagos" class="table table-striped table-bordered dataTable no-footer width200" style="width:100%" role="grid" aria-describedby="dtFacturas_info">
+                                    <thead>
+                                        <tr role="row">
+                                            <th style="display:none;">IdFactPaqPagos</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15px;">Seleccionar</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15px;">Reenvío</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15px;">Descarga</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15px;">Detalle</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Fecha Pago</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Forma Pago</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 65px;">Folio Factura</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Fecha Facturación</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 20px;">Moneda</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 75px;">Monto Total</th>
+                                            <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 70px;">Lugar Exp.</th>
+                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                        @foreach (var pago in Model.listPagos)
+                                        {
+                                            <tr>
+                                                <td style="display:none;">
+                                                    @Html.TextBoxFor(m => pago.IdFactPagos, new { @ID = "IdFactPagos" })
+                                                </td>
+
+                                                @if (@pago.EsFacturado == 0)
+                                                {
+                                                    <td align="center" id="td">@Html.CheckBoxFor(m => pago.SeMandaraFacturar, new { @class = "chkSeMandaraFacturar", @ID = @pago.IdFactPagos.ToString(), @name="chkEsFacturado", type = "checkbox"})</td>
+                                                    <td align="center"></td>
+                                                    <td align="center"></td>
+                                                }
+                                                else if (@pago.EsFacturado == 1)
+                                                {
+                                                    <td align="center" id="td">@Html.CheckBoxFor(m => pago.SeMandaraFacturar, new { @class = "chkSeMandaraFacturar", @ID = @pago.IdFactPagos.ToString(), @name="chkEsFacturado", type = "checkbox", @readonly= "readonly"})</td>
+                                                    <td align="center">
+                                                        <a id='aReenvio' title='Reenviar CFDI por correo' onclick=''> 
+                                                            <i class='glyphicon glyphicon-share-alt' style='font-size:large !important;'></i>
+                                                        </a>
+                                                    </td>
+                                                    <td align="center">
+                                                        @*<a id='aDescFact' title='Descargar la factura' onclick=''> 
+                                                        <img src='assets/Images/envio.png' />
+                                                        </a>*@
+
+                                                        <a id='aDescFact' title='Descargar la factura' class="" 
+                                                            href="@Url.Action("DescargarFactura", "Home", new { IdReserva = pago.IdFactReserva, IdPago = pago.IdFactPagos})"
+                                                           data-toggle="tooltip">
+                                                            <img src='assets/Images/envio.png' />
+                                                        </a>
+                                                    </td>
+
+                                                }
+
+                                                
+                                                <td align="center"><a id='aDetReserva' title='Ver detalle' onclick='MostrarDetalle();'> <i class='glyphicon glyphicon-list-alt' style='font-size:large !important; cursor:pointer'></i></a></td>
+
+                                                @*Se valida que no muestra fechas nulas en FechaPago*@
+                                                @if (@pago.FechaPago.ToString() == "01/01/0001 12:00:00 a. m.")
+                                                {
+                                                    <td align="center"></td>
+                                                }
+                                                else
+                                                {
+                                                    <td align="center">@pago.FechaPago.ToString("yyyy-MM-dd hh:mm:ss")</td>
+                                                }
+
+                                                <td align="center">@pago.FormaPago</td>
+                                                <td align="center">@pago.NoFolio</td>
+
+                                                @*Se valida que no muestra fechas nulas en FechaFacturacion*@
+                                                @if (@pago.FechaFacturacion.ToString() == "01/01/1753 12:00:00 a. m." || @pago.FechaFacturacion.ToString() == "01/01/0001 12:00:00 a. m.")
+                                                {
+                                                    <td align="center"></td>
+                                                }
+                                                else
+                                                {
+                                                    <td align="center">@pago.FechaFacturacion.ToString("yyyy-MM-dd hh:mm:ss")</td>
+                                                }
+
+                                                <td align="center">@pago.Moneda</td>
+                                                <td align="center">@pago.Total</td>
+                                                <td align="center">@pago.LugarExpedicion</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-right">
+                            @*<button ID="btnCancelarFacturar" type="button" class="btn btn-secondary" Width="110px">Cancelar</button>*@
+                            <button class="btn btn-secondary" type="button" id="btnCancelarFacturar" Width="110px" onclick="location.href='@Url.Action("Index", "Home")'">Cancelar</button>
+                            <input type="button" name="btnFacturar" value="Facturar" onclick="CheckBoxValidations();" id="btnFacturar" tabindex="1" class="btn btn-success" style="width:110px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+        <!-- D E T A L L E    P A Q U E T E -->
+    <div ID="pnlDetalle"  hidden>
+        <div class="panel panel-success" style="box-shadow: -1px 0px 8px 0px black;">
+
+            <div class="panel-heading" id="pnlDetalleHeader" style="font-size: 12pt;">
+            Detalle Viva Paquete
+                <div class="btn-group pull-right" style="top: -6px !important;">
+                    <a ID='btnCerrarDetalle' class="btn btn-danger btn-sm" title="Cerrar" onclick="Cerrar('pnlDetalle')" href="#">
+                        <i class="glyphicon glyphicon-remove" style="font-size:large !important;"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="panel-footer">
+                A continuación se lista el detalle de su paquete.
+            </div>
+            <div class="panel-body">
+                <!-- G R I D -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div ID="pnlDetGrid" ScrollBars="Auto" Height="100%" Width="100%">
+
+                            <table id="grvDetalle" class="table table-striped table-bordered dataTable no-footer width200" style="width:100%" role="grid" aria-describedby="dtFacturas_info">
+                                <thead>
+                                    <tr role="row">
+                                        <th style="display:none;">IdFactPaqPagos</th>
+                                        <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Concepto</th>
+                                        <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Clave</th>
+                                        <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Moneda</th>
+                                        <th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;">Monto</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody id="tdetallepack"> </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- D A T O S   F A C T U R A -->
+    <div ID="pnlDatosFactura" style="display: block">
+
+        <b id="ValidarCamposVacios" style="color:red"></b>
+
+        <div class="row">
+            <div class="col-xs-12">
+                @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+            </div>
+        </div>
+        <div class="panel panel-success" style="box-shadow: -1px 0px 8px 0px black;">
+
+            <div class="panel-heading" id="pnlDatosFacturaHeader" style="font-size: 12pt; padding-right: 5px !important;">
+                Datos de Facturación
+                <div class="btn-group pull-right" style="top: -6px !important;">
+                    <a ID='btnCerrarDatosFactura' class="btn btn-danger btn-sm" title="Cerrar" onclick="Cerrar('pnlDatosFactura')" href="#">
+                        <i class="glyphicon glyphicon-remove" style="font-size:large !important;"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="panel-footer">
+                Por favor ingrese la siguiente información fiscal para la generación de facturas.
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <!-- E M A I L -->
+                    <div class="col-md-5 col-md-offset-1">
+                        <div class="form-group row" style="align-items:center">
+                            <label for="txtEmail" class="col-sm-5 col-form-label">Email:</label>
+                            <div class="col-sm-7">
+                                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @id = "txtEmail", @onkeyup = "validarEmail('txtEmail');", @onchange = "CompararCamposVacios();" })
+                                @Html.ValidationMessageFor(model => model.Email, null, new { @class = "label label-danger" })
+                                
+                                <span id="ValidarEmail" style="color:red"></span>
+                                @*<span id="ValidarCamposVacioa" style="color:red"></span>*@
+                            </div>
+                        </div>
+                    </div>
+                    <!-- C O N F I R M A R   E M A I L -->
+                    <div class="col-md-5" @*runat="server"*@ id="EmailConfirmacion">
+                        <div class="form-group row" style="align-items:center">
+                            <label for="txtConfirmarEMail" class="col-sm-5 col-form-label">Confirmar Email:</label>
+                            <div class="col-sm-7">
+                                @Html.TextBoxFor(model => model.EmailConfirmacion, new { @class = "form-control", @id = "txtConfirmarEMail", @onchange = "CompararCamposVacios();" })
+                                @Html.ValidationMessageFor(model => model.EmailConfirmacion, null, new { @class = "label label-danger" })
+                                
+                                <span id="ValidarConfirmarEmail" style="color:red"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <!--  R F C -->
+                    <div class="col-md-5 col-md-offset-1">                        
+                        <div class="form-group row" style="align-items:center">
+                            <label for="txtRFC" class="col-sm-5 col-form-label">RFC:</label>
+                            <div class="col-sm-7">
+                                @Html.TextBoxFor(model => model.RFC, new { @class = "form-control", @MinimumLength = "12", @maxlength = "13", @id = "txtRFC", @onkeyup = "validarRFC(this, 'txtRFC');", @onkeypress = "return SoloNumeroLetras(event);", @onchange = "CompararCamposVacios();" })
+                                @Html.ValidationMessageFor(model => model.RFC, null, new { @class = "label label-danger" })
+
+                                <span id="ValidarRFC" style="color:red"></span>
+                                @*autocomplete = "off",*@
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--  U S O   D E   C F D I -->
+                    <div class="col-md-5">
+                        <div class="form-group row" style="align-items:center">
+                            <label for="ddlUsoCFDI" class="col-sm-5 col-form-label">Uso de CFDI:</label>
+                            <div class="col-sm-7">
+                                @*@Html.TextBoxFor(model => model.DescUsoCFDI, new { @required = "required" })*@
+                                @if (Model.listDescUsoCFDI == null)
+                                {
+                                    /**/
+                                }
+                                else
+                                {
+                                    @Html.DropDownListFor(model => model.DescUsoCFDI, new SelectList(Model.listDescUsoCFDI, "Value", "Text"), "Seleccione", new { @class = "form-control", @id = "DDLUsoCFDI", @onchange = "CompararCamposVacios();" })
+                                }
+                                <span id="ValidarDescUsoCFDI" style="color:red"></span>
+                                @Html.ValidationMessageFor(model => model.DescUsoCFDI, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- F A C T U R A   E X T R A N J E R O -->
+                <div class="row" id="dvFacExtranjero" style="display: none">
+                    <!--  T A X   I D  -->
+                    <div class="col-md-5 col-md-offset-1">                        
+                        <div class="form-group row" style="align-items:center">
+                            <label for="TAXId" class="col-sm-5 col-form-label">TAX ID:</label>
+                            <div class="col-sm-7">
+                                @Html.TextBoxFor(model => model.TAXId, new { @class = "form-control", @maxlength = "14", @onkeyup = "return mayus(this);", @onkeypress = "return SoloNumeroLetras(event);", @id = "TAXId", @onchange = "CompararCamposVacios();" })
+                                @Html.ValidationMessageFor(model => model.TAXId, null, new { @class = "label label-danger" })
+                                <span id="ValidarTAXId" style="color:red"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--  P A Í S   D E   R E S I D E N C I A -->
+                    <div class="col-md-5">
+                        
+                        <div class="form-group row" style="align-items:center">
+                            <label for="ddlPaisReferencia" class="col-sm-5 col-form-label">País de residencia:</label>
+                            <div class="col-sm-7">
+                                @*@Html.TextBoxFor(model => model.CodigoPais, new { @required = "required" })*@
+                                @if (Model.listCodigoPais == null)
+                                {
+                                    /**/
+                                }
+                                else
+                                {
+                                    @Html.DropDownListFor(model => model.CodigoPais, new SelectList(Model.listCodigoPais, "Value", "Text"), "Seleccione", new { @class = "form-control", @ID = "ddlPais", @onchange = "CompararCamposVacios();" })
+                                }
+                                <span id="ValidarCodigoPais" style="color:red"></span>
+                                @Html.ValidationMessageFor(model => model.CodigoPais, null, new { @class = "label label-danger" })
+                            </div>
+
+                            @Html.TextBoxFor(model => model.AccionBoton, new { @class = "form-control", @type = "hidden", @id = "BotonAccion" })
+
+
+                        </div>
+                    </div>
+                </div>
+                <!-- B O T Ó N   G E N E R A R   F A C T U R A -->
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1">
+                        <button ID="btnSoyExtranjero" type="button" class="btn btn-secondary pull-right" onclick="MostrarDatosFacturaEx(this);" value="Extranjero">Soy Extranjero</button>
+                    </div>
+                    <div class="col-md-5">
+                        <button ID="btnGenerarFactura" value="GenerarFactura" type="button" onchange = "CompararCamposVacios()" class="btn btn-success pull-right" @*onclick="AccionBotonGenFactura();"*@>Generar Factura</button>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-footer panel-warning">
+                Importante: Con base en las nuevas disposiciones de la miscelanea fiscal el Nombre o Razón Social y la Dirección Fiscal ya no son datos obligatorios, por tal motivo no se incluyen en este apartado.
+            </div>
+        </div>
+    </div>
+
+}
+
+
+<div class="row">
+    <div class="form-group" style="background-color: #E0F8E0; margin: 10px; padding: 10px; font-size: smaller;">
+        <p>
+            Este portal no considera el <b>Complemento INE</b> para Partidos Políticos, Coaliciones y Asociaciones Civiles de conformidad con el artículo 46 del Reglamento de Fiscalización del Instituto Nacional Electoral, en caso de requerirlo agradeceremos se comunique a Call Center, donde con gusto lo atenderemos.
+        </p>
+    </div>
+</div>
+
+ @{
+    <!-- M O D A L -->
+    <div class="modal fade" role="dialog" id="exampleModalLive">
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+                <div class="modal-header" style="border:none;">@*<div id="img_dialogo"></div>*@</div>
+
+                <div class="modal-body">
+                    <p>
+                        <font style="vertical-align: inherit;">
+                            ¡@Recurso.Textos.PNRNoLocalizado!
+                        </font>
+                    </p>
+                </div>
+
+                <!-- Modal footer-->
+                <div class="modal-footer" style="border:none;">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        <font style="vertical-align: inherit;">Aceptar</font>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- E N D   M O D A L -->
+
+
+      <!--M O D A L     C H E C K B O X-->
+
+    <div id="dv_dialogo" class="modal fade dialogo_info" data-backdrop="static" role="dialog" style="z-index: 999999999 !important; display: none;">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+                <!-- Modal header-->
+                <div class="modal-header" style="border:none;">
+                    <div id="img_dialogo"></div>
+                </div>
+
+                <!-- Modal body-->
+                <div class="modal-body text-center">
+                    <span id="txt_dialogo">Por favor elija al menos un pago a facturar</span>
+                </div>
+
+                <!-- Modal footer-->
+
+                <div class="modal-footer" style="border:none;">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color:lightgreen;">
+                        <font style="vertical-align: inherit;  color:white">Aceptar</font>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <!--E N D    M O D A L   C H E C K B O X-->
+
+
+     /*se activa el modal.*/
+     if (ViewBag.Error == 1)
+     {
+        <script>
+            $('#exampleModalLive').modal('show');
+        </script>
+         }
+ }
+
+<!-- Validacion del Captcha -->        
+<script>
+    window.onload = function () {
+
+        localStorage.clear();
+
+        window.verifyRecaptchaCallback = function (response) {
+            $('input[data-recaptcha]').val(response).trigger('change')
+            if (grecaptcha && grecaptcha.getResponse().length > 0) {
+                document.getElementById("btnBuscarReserva").disabled = false;
+            }
+            else {
+                document.getElementById("btnBuscarReserva").disabled = true;
+            }
+        }
+
+        window.expiredRecaptchaCallback = function () {
+            $('input[data-recaptcha]').val("").trigger('change')
+            document.getElementById("btnBuscarReserva").disabled = true;
+        }
+    }
+</script>
+
+<script type="text/javascript">
+
+    ///*Se obtienen los valores del formulario Datos Factura y se manda al metodo SetViewBag del HomeController*/
+    function EnviarDatos() {
+        $(document).ready(function () {
+
+            // bind the click event
+            //$("#btnGenerarFactura").on("click", function (event) {
+            //    event.preventDefault();
+            //    $("#BotonAccion").val('GenerarFactura');
+
+                // Obtener los Pagos seleccionados
+                var idArray = [];
+                var row = $('#tblPagos tbody tr:has(td)');
+
+                $.each($(row).find('td'), function (i, item) {
+                    if ($(this).find('input[type=checkbox]:checked').length > 0) {
+                        //console.log($(this).find('input[type=checkbox]').attr('id'));
+                        idArray.push($(this).find('input[type=checkbox]').attr('id'));
+                    }
+                });
+                //console.log(idArray.toString());
+
+                if (idArray.toString().length > 0)
+                {
+                    var descPais = $("#ddlPais option:selected").val().length > 0 ? $("#ddlPais option:selected").text() : "";
+
+                    var ldata = '{ idReserva: "' + $("#PNR").val() +
+                        '", idsPagos : "' + idArray.toString() + '"' +
+                        ', email : "' + $("#txtEmail").val() +
+                        '", rfc : "' + $("#txtRFC").val() +
+                        '", codigoUsoCfdi : "' + $("#DDLUsoCFDI option:selected").val() +
+                        '", descUsoCfdi : "' + $("#DDLUsoCFDI option:selected").text() +
+                         '", taxId : "' + $("#TAXId").val() +
+                         '", codigoPais : "' + $("#ddlPais option:selected").val() +
+                        '", descPais : "' + $("#ddlPais option:selected").text() +
+                        '" }';
+
+                    console.log(ldata.trimLeft().trimRight());
+
+                    $.ajax({
+                        type: "POST",
+                        url: '/Home/SetViewBag',
+                        data: ldata,
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "text",
+                        success: function (r) {
+                            $("#BotonAccion").val('GenerarFactura');
+                            $("#frm-Index").submit()
+                        }
+                    });
+
+                } else {
+                    /*Se manda el mensaje de error mediante un modal*/
+                    $('#dv_dialogo').modal('show');
+                }
+
+            //});
+        });
+    }
+
+
+    /*En Pagos Factura, se habilita el boton Facturar unicamente al seleccionar un checkbox*/
+    function MostrarDatosFactura() {
+        /*Se manda a llamar la funcion para desocultar la tabla [Datos de Facturación]*/
+        OcultarTablaDatosFactura();
+    }
+
+
+
+    /*MANDAMOS EL VALOR DEL AccionButton al controlador*/
+    function AccionBotonBuscar() {
+        //alert("entro");
+        $("#BotonAccion").val('Buscar');
+    }
+
+    /*Mandamos el valor (GenerarFactura) de la AccionButton al controlador*/
+    //function AccionBotonGenFactura() {
+    //    $("#BotonAccion").val('GenerarFactura');
+    //}
+
+    /* Ocultar tabla    D A T O S   F A C T U R A*/
+    document.getElementById("pnlDatosFactura").style.display = "none";
+
+    function OcultarTablaDatosFactura() {
+        document.getElementById("pnlDatosFactura").style.display = "block";
+        document.getElementById("btnGenerarFactura").disabled = false;
+
+        /*Se limpian los campos al mostrar la tabal de Datos Factura*/
+        document.getElementById("ValidarEmail").innerHTML = "";
+        document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+        document.getElementById("ValidarRFC").innerHTML = "";
+        document.getElementById("ValidarDescUsoCFDI").innerHTML = "";
+        document.getElementById("ValidarTAXId").innerHTML = "";
+        document.getElementById("ValidarCodigoPais").innerHTML = "";
+
+
+        /*Se deshabilitan los checkbox*/
+        $("input[type=checkbox]").prop("disabled", true);
+
+    }
+
+    /*Se Captura PNR que viene en el modelo*/
+    $(document).ready(function () {
+        @*var prueba =  @Html.Raw(Json.Encode(Model.PNR));*@
+        //alert(prueba);
+        $("#PNR").val(@Html.Raw(Json.Encode(Model.PNR)));
+    });
+
+
+    /*Se cierra la tabla de Datos de Facturación*/
+    function Cerrar(panelName) {
+        event.preventDefault();
+        //$("#pnlDatosFactura")[0].hidden = true;
+        document.getElementById(panelName).style.display = "none";
+
+        if (panelName = "pnlDatosFactura") {
+            /*Los campos de la tabla [Datos de Facturacion] no seran requeridos al cerrar la tabla*/
+        $("#txtEmail").attr("required", false);
+        $("#txtConfirmarEMail").attr("required", false);
+        $("#txtRFC").attr("required", false);
+        $("#DDLUsoCFDI").attr("required", false);
+        $("#TAXId").attr("required", false);
+        $("#ddlPais").attr("required", false);
+
+        /*Adicionalmente los campos de la tabla [Datos de Facturacion] se limpiaran al cerrar la tabla*/
+        $("#txtEmail")[0].value = "";
+        $("#txtConfirmarEMail")[0].value = "";
+        $("#txtRFC")[0].value = "";
+        $("#DDLUsoCFDI")[0].value = "";
+        $("#TAXId")[0].value = "";
+        $("#ddlPais")[0].value = "";
+
+
+        /*Se habilita los checkbox al cerrar la ventana*/ 
+        $("input[type=checkbox]").prop("disabled", false);
+
+        }      
+    }
+
+
+    /*Muestra tabla detalle del Pago*/
+    MostrarDetalle = function () {
+        /*Se recupera el PNR ingresado y se manda al controlador*/
+        var ldata = ($("#PNR").val());
+        //alert(ldata);
+        console.log(ldata);
+
+         $.post(
+           '/Home/detalle_seccion', {
+               PNR: ldata
+           }, function (DetalleContenido) {
+               $('#tdetallepack').html(DetalleContenido)
+               $("#pnlDetalle").show();
+           });
+        };
+
+
+    /*Función que muestra datos de extranjero*/
+    function MostrarDatosFacturaEx(btn) {
+        event.preventDefault();
+
+        if (btn.value == "Extranjero") {
+            $("#dvFacExtranjero").show();
+
+            $("#txtRFC")[0].value = "XEXX010101000";
+            $("#txtRFC")[0].readOnly = true;
+
+            $("#btnSoyExtranjero")[0].textContent = "Soy Nacional";
+            $("#btnSoyExtranjero")[0].value = "Nacional"
+
+            //$("#txtConfirmarEMail")[0].value = "";   
+        }
+
+        else if (btn.value == "Nacional") {
+            $("#btnSoyExtranjero")[0].textContent = "Soy Extranjero";
+            $("#btnSoyExtranjero")[0].value = "Extranjero"
+
+            /*Se ponen los campos vacios cuando se da click al boton nacional*/
+            $("#txtRFC")[0].value = "";
+            $("#DDLUsoCFDI")[0].value = "";
+            $("#TAXId")[0].value = "";
+            $("#ddlPais")[0].value = "";
+            $("#txtRFC")[0].readOnly = false;
+
+            $("#dvFacExtranjero").hide();
+        }
+    }
+
+
+    /* Validación del e-mail */
+    function validarEmail(nombreElemento) {
+
+        var TextoEmail = $("#" + nombreElemento).val();
+
+        //DEFINIMOS LA EXPRESIÓN REGULAR QUE VALIDARÁ EL EMAIL
+        var Email = new RegExp(/^([\w\.\-]+)@@([\w\.\-]+)((\.(\w){2,3})+)$/);
+        if (!Email.test(TextoEmail)) {
+
+            //document.getElementById("Ingresar").disabled = true;
+            document.getElementById("ValidarEmail").innerHTML = "El formato de Email es incorrecto.";
+        }
+        else {
+
+            //document.getElementById("Ingresar").disabled = false;
+            document.getElementById("ValidarEmail").innerHTML = "";
+            return "Ok";
+        }
+    }
+
+   
+    /* FUNCIÓN PARA VALIDAR EL RFC EN MÉXICO */
+    function validarRFC(e, nombreElemento) {
+
+        e.value = e.value.toUpperCase();
+        var RFC = $("#" + nombreElemento).val();
+        var TotalRFC = $("#" + nombreElemento).val().length;
+
+        //alert(TotalRFC);
+
+        //localStorage.setItem("ValRFC", RFC); //GUARDAMOS EL VALOR DE RFC
+        if (TotalRFC <= 11) {
+            document.getElementById("ValidarRFC").innerHTML = "El formato del RFC debe tener al menos 12 caracteres y máximo 13 caracteres.";
+
+        }
+
+
+        if (TotalRFC == 13) {
+
+            //DEFINIMOS LA EXPRESIÓN REGULAR QUE VALIDARÁ A PERSONAS FISICAS
+            var PFisica = new RegExp(/^([A-Z,Ñ,&]{4}([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|1[0-9]|2[0-9]|3[0-1])[A-Z|\d]{3})$/);
+
+            if (!PFisica.test(RFC.toUpperCase())) {
+
+                document.getElementById("ValidarRFC").innerHTML = "El formato del RFC para persona Fisica es incorrecto.";
+                //document.getElementById("btnGenerarFactura").disabled = true;
+            } else {
+                document.getElementById("ValidarRFC").innerHTML = "";
+               
+                //document.getElementById("btnGenerarFactura").disabled = false;
+            }
+        } else if (TotalRFC == 12) {
+
+            //DEFINIMOS LA EXPRESIÓN REGULAR QUE VALIDARÁ A PERSONAS MORALES
+            var PMoral = new RegExp(/^([A-Z,Ñ,&]{3}([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|1[0-9]|2[0-9]|3[0-1])[A-Z|\d]{3})$/);
+
+            if (!PMoral.test(RFC.toUpperCase())) {
+
+                document.getElementById("ValidarRFC").innerHTML = "El formato del RFC para persona Moral es incorrecto.";
+                //document.getElementById("btnGenerarFactura").disabled = true;
+            } else {
+                document.getElementById("ValidarRFC").innerHTML = "";
+                //document.getElementById("btnGenerarFactura").disabled = false;
+            }
+        }
+    }
+
+
+
+    /*Validar confirmar email*/
+    function ConfirmarEmail() {
+
+        var textEmail = $("#txtEmail").val();
+        var txtConfirmarEMail = $("#txtConfirmarEMail").val();
+
+
+        if (txtConfirmarEMail == textEmail) {
+            //alert('Error validacion email true.');
+            //document.getElementById("btnGenerarFactura").disabled = false;
+            document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+            return "Ok";
+        }
+
+        else if (txtConfirmarEMail != textEmail){
+
+            //alert('Error validacion emai false.');
+            //document.getElementById("btnGenerarFactura").disabled = true;
+            //document.getElementById("txtRFC").disabled = true;
+            document.getElementById("ValidarConfirmarEmail").innerHTML = "El email no coincide.";
+        }
+    }
+
+    /*Se valida que el checkbox no sea editable si el pago ya está facturado*/
+    $(document).ready(function () {
+        $(':checkbox[readonly=readonly]').click(function () {
+            return false;
+        });
+    });
+
+
+    /*Validar que los Campos no esten Vacios    ---   I N I C I O */
+    //
+    function CompararCamposVacios() {
+
+        var textEmail = $("#txtEmail").val();
+        var txtConfirmarEMail = $("#txtConfirmarEMail").val();
+        var rfc = $("#txtRFC").val();
+        var codigoUsoCfdi = $("#DDLUsoCFDI option:selected").val();  //Obtener el valor del item seleccionado del DropDownList
+        var taxId = $("#TAXId").val();
+        var codigoPais = $("#ddlPais option:selected").val();        //Obtener el valor del item seleccionado del DropDownList
+        var AccionBoton = $("#btnSoyExtranjero").val();
+
+
+        if (textEmail != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarEmail").innerHTML = "";
+            validarEmail("txtEmail");
+        }
+        if (txtConfirmarEMail != "" && AccionBoton == "Extranjero") {
+         
+            document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+            ConfirmarEmail();
+        }
+
+        if (rfc != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarRFC").innerHTML = "";
+        }
+
+        if (codigoUsoCfdi != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarDescUsoCFDI").innerHTML = "";
+        }
+
+
+        /*Validaciones para el formulario cuando se presiona el boton extranjero*/
+        if (AccionBoton == "Nacional") {
+
+            if (textEmail != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarEmail").innerHTML = "";
+                validarEmail("txtEmail");
+            }
+
+            if (txtConfirmarEMail != "" && AccionBoton == "Nacional") {
+
+                document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+                ConfirmarEmail();
+            }
+
+            if (rfc != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarRFC").innerHTML = "";
+            }
+
+            if (codigoUsoCfdi != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarDescUsoCFDI").innerHTML = "";
+            }
+
+            if (taxId != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarTAXId").innerHTML = "";
+            }
+
+            if (codigoPais != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarCodigoPais").innerHTML = "";
+            }  
+        }  
+    }
+
+    /*Continua la validación de los campos vacios  - Nacional*/
+    $("#btnGenerarFactura").on("click", function (event) {
+        event.preventDefault();
+
+        var textEmail = $("#txtEmail").val();
+        var txtConfirmarEMail = $("#txtConfirmarEMail").val();
+        var rfc = $("#txtRFC").val();
+        var codigoUsoCfdi = $("#DDLUsoCFDI option:selected").val();  //Obtener el valor del item seleccionado del DropDownList
+        var taxId = $("#TAXId").val();
+        var codigoPais = $("#ddlPais option:selected").val();        //Obtener el valor del item seleccionado del DropDownList
+        var AccionBoton = $("#btnSoyExtranjero").val();
+        var GenerarFactura = $("#btnGenerarFactura").val();
+
+
+        if (textEmail != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarEmail").innerHTML = "";
+            var CorrectoFormatoEmail = validarEmail("txtEmail");
+            //alert(CorrectoFormatoEmail);
+        }
+        else {
+            document.getElementById("ValidarEmail").innerHTML = "Campo Vacio.";
+        }
+
+        if (txtConfirmarEMail != "" && AccionBoton == "Extranjero") {
+
+            document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+            var CoincideEmail = ConfirmarEmail();
+        }
+        else {
+
+            document.getElementById("ValidarConfirmarEmail").innerHTML = "Campo Vacio.";
+        }
+
+        if (rfc != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarRFC").innerHTML = "";
+        }
+        else {
+            document.getElementById("ValidarRFC").innerHTML = "Campo Vacio.";
+        }
+
+        if (codigoUsoCfdi != "" && AccionBoton == "Extranjero") {
+            document.getElementById("ValidarDescUsoCFDI").innerHTML = "";
+        }
+        else {
+            document.getElementById("ValidarDescUsoCFDI").innerHTML = "Campo Vacio.";
+        }
+
+        if (textEmail != "" && txtConfirmarEMail != "" && rfc != "" && codigoUsoCfdi != "" && CorrectoFormatoEmail == "Ok" && CoincideEmail == "Ok" && AccionBoton == "Extranjero") {
+
+            /*Se manda a llamar al método para enviar los datos del formulario al controlador.*/
+            EnviarDatos();
+        }
+
+        /*Validaciones para el formulario cuando se presiona el boton extranjero*/
+        else if (AccionBoton == "Nacional") {
+            //alert(AccionBoton);
+
+            var textEmail = $("#txtEmail").val();
+            var txtConfirmarEMail = $("#txtConfirmarEMail").val();
+            var rfc = $("#txtRFC").val();
+            var codigoUsoCfdi = $("#DDLUsoCFDI option:selected").val();  //Obtener el valor del item seleccionado del DropDownList
+            var taxId = $("#TAXId").val();
+            var codigoPais = $("#ddlPais option:selected").val();        //Obtener el valor del item seleccionado del DropDownList
+            var AccionBoton = $("#btnSoyExtranjero").val();
+
+            var GenerarFactura = $("#btnGenerarFactura").val();
+
+
+            if (textEmail != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarEmail").innerHTML = "";
+                var CorrectoFormatoEmail = validarEmail("txtEmail");
+                //alert(CorrectoFormatoEmail);
+            }
+            else {
+                document.getElementById("ValidarEmail").innerHTML = "Campo Vacio.";
+            }
+
+            if (txtConfirmarEMail != "" && AccionBoton == "Nacional") {
+
+                document.getElementById("ValidarConfirmarEmail").innerHTML = "";
+                var CoincideEmail = ConfirmarEmail();
+            }
+            else {
+
+                document.getElementById("ValidarConfirmarEmail").innerHTML = "Campo Vacio.";
+            }
+
+            if (rfc != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarRFC").innerHTML = "";
+            }
+            //else {
+            //    document.getElementById("ValidarRFC").innerHTML = "Campo Vacio.";
+            //}
+
+            if (codigoUsoCfdi != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarDescUsoCFDI").innerHTML = "";
+            }
+            else {
+                document.getElementById("ValidarDescUsoCFDI").innerHTML = "Campo Vacio.";
+            }
+
+            if (taxId != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarTAXId").innerHTML = "";
+            }
+            else {
+                document.getElementById("ValidarTAXId").innerHTML = "Campo Vacio.";
+            }
+
+            if (codigoPais != "" && AccionBoton == "Nacional") {
+                document.getElementById("ValidarCodigoPais").innerHTML = "";
+            }
+            else {
+                document.getElementById("ValidarCodigoPais").innerHTML = "Campo Vacio.";
+            }
+            
+            if (textEmail != "" && txtConfirmarEMail != "" && rfc != "" && codigoUsoCfdi != "" && taxId != "" && codigoPais != "" && CorrectoFormatoEmail == "Ok" && CoincideEmail == "Ok" && AccionBoton == "Nacional") {
+
+                //alert("Prueba Enviar Datos")
+
+                /*Se manda a llamar al método para enviar los datos del formulario al controlador.*/
+                EnviarDatos();
+            }
+        }
+    });
+    /*Validar que los Campos no esten Vacios    ---   F I N*/
+
+
+    /*En Pagos Factura, se habilita el boton Facturar unicamente al seleccionar uno o varios pagos  (CHECKBOX)*/
+    function CheckBoxValidations() {
+        var valid = false;
+
+        //Obtener el objeto gridview
+        var gridview = $('#tblPagos>tbody>tr').length;
+
+        var chkselectcount = gridview;
+
+        if (gridview >= 1) {
+
+            /*Se recorre los pagos mostrados en la tabla y se valida cuantos están chequeados.*/
+            for (i = 1; i <= gridview; i++) {
+
+                //alert(i);
+                var isChecked = document.getElementById(i).checked;
+                if (isChecked) {
+
+                    /*Se manda a llamar la funcion para desocultar la tabla [Datos de Facturación].*/
+                    OcultarTablaDatosFactura();
+
+                    break;
+                }
+
+                else {
+
+                    /*Se valida cuantos pagos estan checkeados encaso de no seleccionar ninguno manda el mensaje de error en un modal.*/
+                    chkselectcount = chkselectcount - 1;
+
+                    if (chkselectcount == 0) {
+
+                        /*Se manda el mensaje de error mediante un modal*/
+                        $('#dv_dialogo').modal('show');
+                    }
+                }
+            }
+        }
+    }
+
+</script>

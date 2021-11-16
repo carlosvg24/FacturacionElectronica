@@ -1,0 +1,134 @@
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\NLog.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\itextsharp.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\NLog.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\itextsharp.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.csprojResolveAssemblyReference.cache
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.pdb
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\D4N13L\VS_2015\VBFacturacionPaquetes.git\VBFactPaquetes.DAO\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\itextsharp.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.dll
+C:\Users\carlos.galindo\Desktop\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Proyecto_Actual\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.Mvc.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\VBFactPaquetes.DAO\obj\Debug\VBFactPaquetes.DAO.pdb

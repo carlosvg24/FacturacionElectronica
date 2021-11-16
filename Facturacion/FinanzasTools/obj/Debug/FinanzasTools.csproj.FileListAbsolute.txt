@@ -1,0 +1,223 @@
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.config
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Comun.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\zxing.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\itextsharp.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\FastMember.Signed.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Comun.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\zxing.pdb
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\zxing.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.frmFinanzasTools.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.Properties.Resources.resources
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csproj.GenerateResource.Cache
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe.manifest
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.application
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe
+C:\Users\carlos.galindo\Desktop\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.config
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Comun.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\zxing.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\itextsharp.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Comun.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\zxing.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\zxing.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csprojResolveAssemblyReference.cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.frmFinanzasTools.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.Properties.Resources.resources
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csproj.GenerateResource.Cache
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe.manifest
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.application
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.pdb
+C:\Users\javier.cardenas\Desktop\Facturacion-\Union\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csproj.FinanzasTools.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csprojResolveAssemblyReference.cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.frmFinanzasTools.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.Properties.Resources.resources
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csproj.GenerateResource.Cache
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\csc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\vbc.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.config
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.application
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\zxing.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\itextsharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\FastMember.Signed.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\System.Web.Mvc.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\RestSharp.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\NLog.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\zxing.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\zxing.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\RestSharp.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\bin\Debug\NLog.xml
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe.manifest
+C:\Users\javier.bremont\Desktop\Fact33_Oct19\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\csc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\vbc.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\App_GlobalResources\Textos.resx
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\App_GlobalResources\Textos.Designer.cs
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.config
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FinanzasTools.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\zxing.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Model.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.PortalWeb.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\itextsharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\FastMember.Signed.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\System.Web.Mvc.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.DAO.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.BLL.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Comun.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\RestSharp.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\NLog.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.DAL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Facturacion.ENT.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\ClosedXML.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\zxing.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\zxing.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Model.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.PortalWeb.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\MetodosComunes.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.DAO.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.BLL.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\VBFactPaquetes.Comun.pdb
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\RestSharp.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\bin\Debug\NLog.xml
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.frmFinanzasTools.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.Properties.Resources.resources
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.csproj.GenerateResource.Cache
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe.manifest
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.application
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.exe
+C:\Users\daniel.vargas\OneDrive - Vivaaerobus\Escritorio\Fact33_Oct19 - copia\Facturación_RHS\FinanzasTools\obj\Debug\FinanzasTools.pdb
